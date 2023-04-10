@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#keepEye",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:PromptEngineering",
+      "color": {
+        "a": 1,
+        "rgb": 2212998
+      }
+    },
+    {
+      "query": "path:\"Midjourney+stable diffusion\"",
+      "color": {
+        "a": 1,
+        "rgb": 13418014
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -1.5,
+  "nodeSizeMultiplier": 2.00349527994792,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.584635416666667,
+  "repelStrength": 18.0843098958333,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.8367896867531252,
+  "close": false
+}
