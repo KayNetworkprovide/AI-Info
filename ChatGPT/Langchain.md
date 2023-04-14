@@ -1,4 +1,8 @@
 #langchain 
+
+[浅显易懂教程]
+https://youtu.be/LbT1yp6quS8 
+
 [LangChain：Model as a Service粘合剂，被ChatGPT插件干掉了吗？ (qq.com)](https://mp.weixin.qq.com/s/3coFhAdzr40tozn8f9Dc-w)
 
 https://learnprompting.org/docs/advanced_applications/mrkl

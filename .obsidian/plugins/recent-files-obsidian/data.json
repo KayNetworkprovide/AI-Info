@@ -1,16 +1,124 @@
 {
   "recentFiles": [
     {
-      "basename": "AI",
-      "path": "AI.md"
-    },
-    {
       "basename": "Vicuna",
       "path": "Llama/Vicuna.md"
     },
     {
+      "basename": "国内chatGPT镜像站",
+      "path": "国内chatGPT镜像站.md"
+    },
+    {
+      "basename": "huggingGPT or Jarvis",
+      "path": "huggingGPT or Jarvis.md"
+    },
+    {
+      "basename": "DeepSpeed",
+      "path": "DeepSpeed/DeepSpeed.md"
+    },
+    {
+      "basename": "Databricks-dolly",
+      "path": "Llama/Databricks-dolly.md"
+    },
+    {
+      "basename": "LLaMA ＋ Text Generation WebUI ~ 大型語言模型網頁前端安裝教學",
+      "path": "Llama/LLaMA ＋ Text Generation WebUI ~ 大型語言模型網頁前端安裝教學.md"
+    },
+    {
+      "basename": "AI",
+      "path": "AI.md"
+    },
+    {
+      "basename": "AutoGPT",
+      "path": "AutoGPT.md"
+    },
+    {
+      "basename": "Langchain + AutoGPT",
+      "path": "Langchain + AutoGPT.md"
+    },
+    {
+      "basename": "Langchain",
+      "path": "ChatGPT/Langchain.md"
+    },
+    {
       "basename": "ChatGPT",
       "path": "ChatGPT/ChatGPT.md"
+    },
+    {
+      "basename": "News",
+      "path": "News/News.md"
+    },
+    {
+      "basename": "阿里通义大模型",
+      "path": "阿里通义大模型.md"
+    },
+    {
+      "basename": "Generative Agents_ Interactive Simulacra of Human Behavior",
+      "path": "Others/Assets/Generative Agents_ Interactive Simulacra of Human Behavior.pdf"
+    },
+    {
+      "basename": "The-Art-of-Asking-ChatGPT-for-High-Quality-Answers_-中英对照版-",
+      "path": "Others/Assets/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers_-中英对照版-.pdf"
+    },
+    {
+      "basename": "PromptEngineering",
+      "path": "PromptEngineering/PromptEngineering.md"
+    },
+    {
+      "basename": "GPT对职业影响",
+      "path": "ChatGPT/GPT相关/GPT对职业影响.md"
+    },
+    {
+      "basename": "GPT相关",
+      "path": "ChatGPT/GPT相关/GPT相关.md"
+    },
+    {
+      "basename": "LearnPrompt",
+      "path": "PromptEngineering/LearnPrompt.md"
+    },
+    {
+      "basename": "Prompt Optimizer",
+      "path": "PromptEngineering/Prompt Optimizer.md"
+    },
+    {
+      "basename": "行业",
+      "path": "Career/行业.md"
+    },
+    {
+      "basename": "Career",
+      "path": "Career/Career.md"
+    },
+    {
+      "basename": "Midjourney应用",
+      "path": "Midjourney+stable diffusion/Midjourney应用.md"
+    },
+    {
+      "basename": "商业实践的多种方法",
+      "path": "Career/商业实践的多种方法.md"
+    },
+    {
+      "basename": "ChatGPT Plugin",
+      "path": "ChatGPT/ChatGPT Plugin.md"
+    },
+    {
+      "basename": "chatgpt底层算法",
+      "path": "ChatGPT/chatgpt底层算法.md"
+    },
+    {
+      "basename": "ChatGPT相关论文",
+      "path": "ChatGPT/ChatGPT相关论文.md"
+    },
+    {
+      "basename": "Large Language model are human-level prompt engineers",
+      "path": "Large Language model are human-level prompt engineers.md"
+    },
+    {
+      "basename": "LumaAI",
+      "path": "LumaAI.md"
+    },
+    {
+      "basename": "阿里达摩院通义大模型概述",
+      "path": "Others/Assets/阿里达摩院通义大模型概述.pdf"
     },
     {
       "basename": "LLAMA",
@@ -21,28 +129,36 @@
       "path": "Llama/FastGPT.md"
     },
     {
-      "basename": "AutoGPT",
-      "path": "AutoGPT.md"
+      "basename": "Document AI",
+      "path": "Document AI.md"
+    },
+    {
+      "basename": "midjourney",
+      "path": "Midjourney+stable diffusion/midjourney.md"
+    },
+    {
+      "basename": "Midjourney+stablediffusion",
+      "path": "Midjourney+stable diffusion/Midjourney+stablediffusion.md"
+    },
+    {
+      "basename": "Midjourney教程",
+      "path": "Midjourney+stable diffusion/Midjourney教程.md"
+    },
+    {
+      "basename": "stable diffusion",
+      "path": "Midjourney+stable diffusion/stable diffusion.md"
+    },
+    {
+      "basename": "LLM底层技术",
+      "path": "ChatGPT/LLM底层技术.md"
     },
     {
       "basename": "arXiv",
       "path": "News/arXiv.md"
     },
     {
-      "basename": "News",
-      "path": "News/News.md"
-    },
-    {
       "basename": "Pasted image 20230410103914",
       "path": "Others/Assets/Pasted image 20230410103914.png"
-    },
-    {
-      "basename": "Large Language model are human-level prompt engineers",
-      "path": "Large Language model are human-level prompt engineers.md"
-    },
-    {
-      "basename": "Midjourney教程",
-      "path": "Midjourney+stable diffusion/Midjourney教程.md"
     },
     {
       "basename": "WebUI",
@@ -53,24 +169,8 @@
       "path": "Others/Assets/Pasted image 20230405210532.png"
     },
     {
-      "basename": "stable diffusion",
-      "path": "Midjourney+stable diffusion/stable diffusion.md"
-    },
-    {
-      "basename": "huggingfaceGPT",
-      "path": "huggingfaceGPT.md"
-    },
-    {
-      "basename": "Document AI",
-      "path": "Document AI.md"
-    },
-    {
       "basename": "BloombergGPT",
       "path": "ChatGPT/GPT相关/BloombergGPT.md"
-    },
-    {
-      "basename": "chatgpt底层算法",
-      "path": "ChatGPT/chatgpt底层算法.md"
     },
     {
       "basename": "OpenAI GPT FineTune",
@@ -89,116 +189,8 @@
       "path": "Others/Assets/2211.01910.pdf"
     },
     {
-      "basename": "Midjourney应用",
-      "path": "Midjourney+stable diffusion/Midjourney应用.md"
-    },
-    {
       "basename": "Pasted image 20230405155441",
       "path": "Others/Assets/Pasted image 20230405155441.png"
-    },
-    {
-      "basename": "不需要深入的AI工具",
-      "path": "Others/不需要深入的AI工具.md"
-    },
-    {
-      "basename": "midjourney",
-      "path": "Midjourney+stable diffusion/midjourney.md"
-    },
-    {
-      "basename": "Midjourney+stablediffusion",
-      "path": "Midjourney+stable diffusion/Midjourney+stablediffusion.md"
-    },
-    {
-      "basename": "PromptEngineering",
-      "path": "PromptEngineering/PromptEngineering.md"
-    },
-    {
-      "basename": "Prompt Optimizer",
-      "path": "PromptEngineering/Prompt Optimizer.md"
-    },
-    {
-      "basename": "LearnPrompt",
-      "path": "PromptEngineering/LearnPrompt.md"
-    },
-    {
-      "basename": "ChatGPT+Plugins+ 公司业务数据和业务目标",
-      "path": "Career/ChatGPT+Plugins+ 公司业务数据和业务目标.md"
-    },
-    {
-      "basename": "商业实践的多种方法",
-      "path": "Career/商业实践的多种方法.md"
-    },
-    {
-      "basename": "ChatGPT Plugin",
-      "path": "ChatGPT/ChatGPT Plugin.md"
-    },
-    {
-      "basename": "行业",
-      "path": "Career/行业.md"
-    },
-    {
-      "basename": "LLM底层技术",
-      "path": "ChatGPT/LLM底层技术.md"
-    },
-    {
-      "basename": "Langchain",
-      "path": "ChatGPT/Langchain.md"
-    },
-    {
-      "basename": "GPT4 + langchain + 公司业务数据和业务目标",
-      "path": "Career/GPT4 + langchain + 公司业务数据和业务目标.md"
-    },
-    {
-      "basename": "Career",
-      "path": "Career/Career.md"
-    },
-    {
-      "basename": "跨境电商 - 易佰网络",
-      "path": "Career/跨境电商 - 易佰网络.md"
-    },
-    {
-      "basename": "GPT相关",
-      "path": "ChatGPT/GPT相关/GPT相关.md"
-    },
-    {
-      "basename": "- Google Research",
-      "path": "Others/Assets/- Google Research.png"
-    },
-    {
-      "basename": "Pasted Graphic 24",
-      "path": "Others/Assets/Pasted Graphic 24.png"
-    },
-    {
-      "basename": "Industrial manufacturing",
-      "path": "Others/Assets/Industrial manufacturing.png"
-    },
-    {
-      "basename": "OpenAI-微调",
-      "path": "Others/Assets/OpenAI-微调.pdf"
-    },
-    {
-      "basename": "Pasted image 20230403113845",
-      "path": "Others/Assets/Pasted image 20230403113845.png"
-    },
-    {
-      "basename": "Pasted image 20230403114224",
-      "path": "Others/Assets/Pasted image 20230403114224.png"
-    },
-    {
-      "basename": "Pasted image 20230403114841",
-      "path": "Others/Assets/Pasted image 20230403114841.png"
-    },
-    {
-      "basename": "Pasted image 20230404120511",
-      "path": "Others/Assets/Pasted image 20230404120511.png"
-    },
-    {
-      "basename": "Pasted image 20230404121057",
-      "path": "Others/Assets/Pasted image 20230404121057.png"
-    },
-    {
-      "basename": "Pasted image 20230404174204",
-      "path": "Others/Assets/Pasted image 20230404174204.png"
     }
   ],
   "omittedPaths": [],

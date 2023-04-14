@@ -1,6 +1,28 @@
+玩过的vicuna model：
+***记得分清navdia CUDA GPTQ版本和普通版本！！***
+**民用级电脑估计最多只能跑7b的llama, 13b跑不起来**
+
+
+huggingface:
+[能跑起来的]huggingface.co/anon8231489123:
+	anon8231489123/vicuna-13b-GPTQ-4bit-128g (GPU/CUDA model)
+[原版]huggingface.co/lmsys
+[不知道什么版本]huggingface.co/eachadea
+
+
+
 lmsys/vicuna-13b-delta-v0
 [lmsys/vicuna-13b-delta-v0 · Hugging Face](https://huggingface.co/lmsys/vicuna-13b-delta-v0)
 
+视频教学：
+
+[TourbueChuteQuickInstall]https://youtu.be/d4dk_7FptXk
+[UNCENSORED GPT4 x Alpaca & Vicuna [Local Install + Tutorial] - YouTube](https://www.youtube.com/watch?v=vNHjeQxNuS0&ab_channel=PromptEngineering)
+[Run Vicuna-13B On Your Local Computer 🤯 | Tutorial (GPU) - YouTube](https://www.youtube.com/watch?v=F_pFH-AngoE&ab_channel=MartinThissen)
+[GET Vicuna NOW! 90% Of ChatGPT Power?! FULL PC INSTALL! - YouTube](https://www.youtube.com/watch?v=cCQdzqAHcFk&ab_channel=Aitrepreneur)
+
+
+文档以及资料：
 
 [Vicuna: An Open-Source Chatbot Impressing GPT-4 with 90%* ChatGPT Quality | by the Team with members from UC Berkeley, CMU, Stanford, and UC San Diego (lmsys.org)](https://vicuna.lmsys.org/)
 

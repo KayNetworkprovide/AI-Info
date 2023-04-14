@@ -1,4 +1,4 @@
-[[ChatGPT]]
+[[ChatGPT/ChatGPT]]
 
 [[Midjourney+stablediffusion]]
 

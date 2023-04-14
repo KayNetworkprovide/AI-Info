@@ -4,23 +4,57 @@
     "type": "split",
     "children": [
       {
-        "id": "bf9f480bf9379fa8",
+        "id": "7cb477fee3c3d29e",
         "type": "tabs",
         "children": [
           {
-            "id": "55333a6e8114266c",
+            "id": "c0f25b35b1d768be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AI.md",
+                "file": "阿里通义大模型.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f321b00c206fda53",
+            "id": "a3c8619b88cf17bc",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Others/Assets/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers_-中英对照版-.pdf"
+              }
+            }
+          },
+          {
+            "id": "1c192f77ff9507bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT/Langchain.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "637709af95eac88b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Llama/Vicuna.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9dd856f2e0d492a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,7 +65,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -60,7 +95,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "news",
+                "query": "langchain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +140,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +156,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,9 +177,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "AI.md"
-              }
+              "state": {}
             }
           },
           {
@@ -175,54 +206,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55333a6e8114266c",
+  "active": "47583ecb43de4c72",
   "lastOpenFiles": [
     "Llama/Vicuna.md",
+    "Vicuna.md",
+    "国内chatGPT镜像站.md",
+    "Untitled.md",
+    "huggingGPT or Jarvis.md",
+    "DeepSpeed/DeepSpeed.md",
+    "DeepSpeed",
+    "Llama/Databricks-dolly.md",
+    "Llama/LLaMA ＋ Text Generation WebUI ~ 大型語言模型網頁前端安裝教學.md",
     "AI.md",
-    "ChatGPT/ChatGPT.md",
-    "Llama/LLAMA.md",
-    "Llama/FastGPT.md",
     "AutoGPT.md",
-    "News/arXiv.md",
+    "Langchain + AutoGPT.md",
+    "ChatGPT/Langchain.md",
+    "ChatGPT/ChatGPT.md",
     "News/News.md",
+    "阿里通义大模型.md",
+    "Others/Assets/Generative Agents_ Interactive Simulacra of Human Behavior.pdf",
+    "Others/Assets/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers_-中英对照版-.pdf",
+    "PromptEngineering/PromptEngineering.md",
+    "ChatGPT/GPT相关/GPT对职业影响.md",
+    "ChatGPT/GPT相关/GPT相关.md",
+    "PromptEngineering/LearnPrompt.md",
+    "PromptEngineering/Prompt Optimizer.md",
+    "Career/行业.md",
+    "Career/Career.md",
+    "Midjourney+stable diffusion/Midjourney应用.md",
+    "Career/商业实践的多种方法.md",
+    "ChatGPT/ChatGPT Plugin.md",
+    "ChatGPT/chatgpt底层算法.md",
+    "Others/Assets/阿里达摩院通义大模型概述.pdf",
+    "DataGang",
+    "untitled folder",
     "Others/Assets/Pasted image 20230410103914.png",
-    "Large Language model are human-level prompt engineers.md",
     "Llama",
     "vicuna.ps1",
-    "Midjourney+stable diffusion/Midjourney教程.md",
-    "Midjourney+stable diffusion/WebUI.md",
     "Others/Assets/Pasted image 20230405210532.png",
-    "Midjourney+stable diffusion/stable diffusion.md",
     "Others/Assets/Pasted image 20230405210239.png",
     "Others/Assets/Pasted image 20230405210222.png",
-    "huggingfaceGPT.md",
-    "Document AI.md",
-    "ChatGPT/GPT相关/BloombergGPT.md",
-    "ChatGPT/chatgpt底层算法.md",
-    "ChatGPT/OpenAI GPT FineTune.md",
-    "ChatGPT/训练大模型.md",
     "Others/Assets/AIGC_探索AIGC在网易严选中的应用.pdf",
     "Others/Assets/2211.01910.pdf",
-    "Midjourney+stable diffusion/Midjourney应用.md",
     "Others/Assets/Pasted image 20230405155441.png",
-    "Others/不需要深入的AI工具.md",
-    "Midjourney+stable diffusion/midjourney.md",
-    "Midjourney+stable diffusion/Midjourney+stablediffusion.md",
-    "PromptEngineering/PromptEngineering.md",
     "PromptEngineering/Untitled.canvas",
-    "PromptEngineering/Prompt Optimizer.md",
-    "PromptEngineering/LearnPrompt.md",
     "Others/Assets/Pasted image 20230404223137.png",
-    "Career/ChatGPT+Plugins+ 公司业务数据和业务目标.md",
-    "News",
     "Others/Assets/- Google Research.png",
     "Others/Assets/Pasted Graphic 24.png",
     "Others/Assets/Industrial manufacturing.png",
-    "Others/Assets/OpenAI-微调.pdf",
-    "Others/Assets/Pasted image 20230403113845.png",
-    "ChatGPT/GPT相关",
-    "PromptEngineering",
-    "Career",
-    "HuggingfaceGPT"
+    "Others/Assets/Pasted image 20230403113845.png"
   ]
 }
