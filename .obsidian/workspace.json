@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "36983e3cccf59eb0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research-AI agent for Street Fighter.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ChatFlow&Unit Mesh/Unit mesh.md",
+                "file": "Research-AI agent for Street Fighter.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ChatFlow&Unit Mesh/Unit mesh.md",
+                "file": "Research-AI agent for Street Fighter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ChatFlow&Unit Mesh/Unit mesh.md"
+                "file": "Research-AI agent for Street Fighter.md"
               }
             }
           },
@@ -176,10 +188,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0673b8dcab73da09",
+  "active": "47583ecb43de4c72",
   "lastOpenFiles": [
-    "ChatFlow&Unit Mesh/chatflow.md",
+    "Assets/Pasted image 20230416063728.png",
     "ChatFlow&Unit Mesh/Unit mesh.md",
+    "Research-AI agent for Street Fighter.md",
+    "ChatFlow&Unit Mesh/chatflow.md",
     "ChatFlow&Unit Mesh",
     "IdeasAI.md",
     "AI.md",
@@ -187,12 +201,12 @@
     "huggingGPT or Jarvis.md",
     "Llama/Vicuna.md",
     "AutoGPT.md",
-    "Others/Assets/Pasted image 20230416055257.png",
+    "Assets/Pasted image 20230416055257.png",
     "阿里通义大模型.md",
     "国内chatGPT镜像站.md",
-    "Others/Assets/阿里达摩院通义大模型概述.pdf",
-    "Others/Assets/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers_-中英对照版-.pdf",
-    "Others/Assets/Generative Agents_ Interactive Simulacra of Human Behavior.pdf",
+    "Assets/阿里达摩院通义大模型概述.pdf",
+    "Assets/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers_-中英对照版-.pdf",
+    "Assets/Generative Agents_ Interactive Simulacra of Human Behavior.pdf",
     "LumaAI.md",
     "Llama/LLaMA ＋ Text Generation WebUI ~ 大型語言模型網頁前端安裝教學.md",
     "Llama/Databricks-dolly.md",
@@ -203,26 +217,25 @@
     "Llama/Vicuna Installation.md",
     "Llama/Llama Lora训练.md",
     "Llama/LLAMA.md",
-    "Others/Assets/Pasted image 20230416055120.png",
-    "Others/Assets/Pasted image 20230416045418.png",
+    "Assets/Pasted image 20230416055120.png",
+    "Assets/Pasted image 20230416045418.png",
     "Why open source model is dangerous.pdf",
-    "Others/Assets/Pasted image 20230416045408.png",
-    "Others/Assets/Pasted image 20230416045343.png",
-    "Others/Assets/Pasted image 20230416045333.png",
-    "Others/Assets/Pasted image 20230416045317.png",
+    "Assets/Pasted image 20230416045408.png",
+    "Assets/Pasted image 20230416045343.png",
+    "Assets/Pasted image 20230416045333.png",
+    "Assets/Pasted image 20230416045317.png",
     "ChatGPT-DAN.md",
-    "Others/Assets/Pasted image 20230416041159.png",
+    "Assets/Pasted image 20230416041159.png",
     "Llama/FastGPT.md",
     "News/News.md",
     "News/arXiv.md",
     "Anthropic Claude.md",
-    "Claude.md",
-    "Others/Assets/Pasted image 20230416033845.png",
-    "Others/Assets/Pasted image 20230416033922.png",
+    "Assets/Pasted image 20230416033845.png",
+    "Assets/Pasted image 20230416033922.png",
     "Llama",
     "vicuna.ps1",
-    "Others/Assets/AIGC_探索AIGC在网易严选中的应用.pdf",
-    "Others/Assets/2211.01910.pdf",
+    "Assets/AIGC_探索AIGC在网易严选中的应用.pdf",
+    "Assets/2211.01910.pdf",
     "PromptEngineering/Untitled.canvas"
   ]
 }
