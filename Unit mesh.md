@@ -1,4 +1,0 @@
-[Unit Mesh (github.com)](https://github.com/unit-mesh/)
-![[Pasted image 20230416055257.png]]
-
-[unit-mesh/unit-minions: 《AI 研发提效研究：自己动手训练 LoRA》，包含 Llama （Alpaca LoRA）模型、ChatGLM （ChatGLM Tuning）相关 Lora 的训练。训练内容：用户故事生成、测试代码生成、代码辅助生成、文本转 SQL、文本生成代码…… (github.com)](https://github.com/unit-mesh/unit-minions)
