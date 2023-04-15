@@ -11,11 +11,9 @@
             "id": "55333a6e8114266c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "AI.md",
-                "mode": "source",
-                "source": false
+                "file": "Others/Assets/Pasted image 20230416055257.png"
               }
             }
           },
@@ -60,7 +58,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "news",
+                "query": "iex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AI.md",
+                "file": "Others/Assets/Pasted image 20230416055257.png",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AI.md",
+                "file": "Others/Assets/Pasted image 20230416055257.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AI.md"
+                "file": "Others/Assets/Pasted image 20230416055257.png"
               }
             }
           },
@@ -175,54 +173,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55333a6e8114266c",
+  "active": "47583ecb43de4c72",
   "lastOpenFiles": [
+    "Others/Why open source model is dangerous.md",
+    "Others/Assets/Pasted image 20230416055257.png",
+    "Llama/Vicuna Installation.md",
     "Llama/Vicuna.md",
-    "AI.md",
-    "ChatGPT/ChatGPT.md",
+    "Llama/Llama Lora训练.md",
     "Llama/LLAMA.md",
+    "AI.md",
+    "Unit mesh.md",
+    "Others/Assets/Pasted image 20230416055120.png",
+    "chatflow.md",
+    "Others/Assets/Pasted image 20230416045418.png",
+    "Why open source model is dangerous.pdf",
+    "Others/Assets/Pasted image 20230416045408.png",
+    "Others/Assets/Pasted image 20230416045343.png",
+    "Others/Assets/Pasted image 20230416045333.png",
+    "Others/Assets/Pasted image 20230416045317.png",
+    "ChatGPT-DAN.md",
+    "Others/Assets/Pasted image 20230416041159.png",
     "Llama/FastGPT.md",
-    "AutoGPT.md",
-    "News/arXiv.md",
+    "Jarvix huggingfaceGPT.md",
     "News/News.md",
-    "Others/Assets/Pasted image 20230410103914.png",
+    "News/arXiv.md",
+    "Anthropic Claude.md",
+    "Claude.md",
+    "IdeasAI.md",
     "Large Language model are human-level prompt engineers.md",
+    "Others/Assets/Pasted image 20230416033845.png",
+    "Others/Assets/Pasted image 20230416033922.png",
+    "AutoGPT.md",
+    "ChatGPT/ChatGPT.md",
     "Llama",
     "vicuna.ps1",
     "Midjourney+stable diffusion/Midjourney教程.md",
     "Midjourney+stable diffusion/WebUI.md",
-    "Others/Assets/Pasted image 20230405210532.png",
     "Midjourney+stable diffusion/stable diffusion.md",
-    "Others/Assets/Pasted image 20230405210239.png",
-    "Others/Assets/Pasted image 20230405210222.png",
-    "huggingfaceGPT.md",
     "Document AI.md",
     "ChatGPT/GPT相关/BloombergGPT.md",
     "ChatGPT/chatgpt底层算法.md",
-    "ChatGPT/OpenAI GPT FineTune.md",
-    "ChatGPT/训练大模型.md",
     "Others/Assets/AIGC_探索AIGC在网易严选中的应用.pdf",
     "Others/Assets/2211.01910.pdf",
-    "Midjourney+stable diffusion/Midjourney应用.md",
-    "Others/Assets/Pasted image 20230405155441.png",
-    "Others/不需要深入的AI工具.md",
-    "Midjourney+stable diffusion/midjourney.md",
-    "Midjourney+stable diffusion/Midjourney+stablediffusion.md",
-    "PromptEngineering/PromptEngineering.md",
     "PromptEngineering/Untitled.canvas",
-    "PromptEngineering/Prompt Optimizer.md",
-    "PromptEngineering/LearnPrompt.md",
-    "Others/Assets/Pasted image 20230404223137.png",
-    "Career/ChatGPT+Plugins+ 公司业务数据和业务目标.md",
     "News",
-    "Others/Assets/- Google Research.png",
-    "Others/Assets/Pasted Graphic 24.png",
-    "Others/Assets/Industrial manufacturing.png",
     "Others/Assets/OpenAI-微调.pdf",
-    "Others/Assets/Pasted image 20230403113845.png",
     "ChatGPT/GPT相关",
     "PromptEngineering",
-    "Career",
-    "HuggingfaceGPT"
+    "Career"
   ]
 }

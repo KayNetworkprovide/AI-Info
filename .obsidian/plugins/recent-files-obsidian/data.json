@@ -1,44 +1,100 @@
 {
   "recentFiles": [
     {
-      "basename": "AI",
-      "path": "AI.md"
+      "basename": "Pasted image 20230416055257",
+      "path": "Others/Assets/Pasted image 20230416055257.png"
+    },
+    {
+      "basename": "Why open source model is dangerous",
+      "path": "Others/Why open source model is dangerous.md"
+    },
+    {
+      "basename": "Vicuna Installation",
+      "path": "Llama/Vicuna Installation.md"
     },
     {
       "basename": "Vicuna",
       "path": "Llama/Vicuna.md"
     },
     {
-      "basename": "ChatGPT",
-      "path": "ChatGPT/ChatGPT.md"
+      "basename": "Llama Lora训练",
+      "path": "Llama/Llama Lora训练.md"
     },
     {
       "basename": "LLAMA",
       "path": "Llama/LLAMA.md"
     },
     {
+      "basename": "AI",
+      "path": "AI.md"
+    },
+    {
+      "basename": "Unit mesh",
+      "path": "Unit mesh.md"
+    },
+    {
+      "basename": "Pasted image 20230416055120",
+      "path": "Others/Assets/Pasted image 20230416055120.png"
+    },
+    {
+      "basename": "chatflow",
+      "path": "chatflow.md"
+    },
+    {
+      "basename": "Pasted image 20230416045418",
+      "path": "Others/Assets/Pasted image 20230416045418.png"
+    },
+    {
+      "basename": "ChatGPT-DAN",
+      "path": "ChatGPT-DAN.md"
+    },
+    {
       "basename": "FastGPT",
       "path": "Llama/FastGPT.md"
     },
     {
-      "basename": "AutoGPT",
-      "path": "AutoGPT.md"
-    },
-    {
-      "basename": "arXiv",
-      "path": "News/arXiv.md"
+      "basename": "Jarvix huggingfaceGPT",
+      "path": "Jarvix huggingfaceGPT.md"
     },
     {
       "basename": "News",
       "path": "News/News.md"
     },
     {
-      "basename": "Pasted image 20230410103914",
-      "path": "Others/Assets/Pasted image 20230410103914.png"
+      "basename": "arXiv",
+      "path": "News/arXiv.md"
+    },
+    {
+      "basename": "Anthropic Claude",
+      "path": "Anthropic Claude.md"
+    },
+    {
+      "basename": "Claude",
+      "path": "Claude.md"
+    },
+    {
+      "basename": "IdeasAI",
+      "path": "IdeasAI.md"
     },
     {
       "basename": "Large Language model are human-level prompt engineers",
       "path": "Large Language model are human-level prompt engineers.md"
+    },
+    {
+      "basename": "Pasted image 20230416033845",
+      "path": "Others/Assets/Pasted image 20230416033845.png"
+    },
+    {
+      "basename": "AutoGPT",
+      "path": "AutoGPT.md"
+    },
+    {
+      "basename": "ChatGPT",
+      "path": "ChatGPT/ChatGPT.md"
+    },
+    {
+      "basename": "Pasted image 20230410103914",
+      "path": "Others/Assets/Pasted image 20230410103914.png"
     },
     {
       "basename": "Midjourney教程",
@@ -55,10 +111,6 @@
     {
       "basename": "stable diffusion",
       "path": "Midjourney+stable diffusion/stable diffusion.md"
-    },
-    {
-      "basename": "huggingfaceGPT",
-      "path": "huggingfaceGPT.md"
     },
     {
       "basename": "Document AI",
@@ -147,58 +199,6 @@
     {
       "basename": "GPT4 + langchain + 公司业务数据和业务目标",
       "path": "Career/GPT4 + langchain + 公司业务数据和业务目标.md"
-    },
-    {
-      "basename": "Career",
-      "path": "Career/Career.md"
-    },
-    {
-      "basename": "跨境电商 - 易佰网络",
-      "path": "Career/跨境电商 - 易佰网络.md"
-    },
-    {
-      "basename": "GPT相关",
-      "path": "ChatGPT/GPT相关/GPT相关.md"
-    },
-    {
-      "basename": "- Google Research",
-      "path": "Others/Assets/- Google Research.png"
-    },
-    {
-      "basename": "Pasted Graphic 24",
-      "path": "Others/Assets/Pasted Graphic 24.png"
-    },
-    {
-      "basename": "Industrial manufacturing",
-      "path": "Others/Assets/Industrial manufacturing.png"
-    },
-    {
-      "basename": "OpenAI-微调",
-      "path": "Others/Assets/OpenAI-微调.pdf"
-    },
-    {
-      "basename": "Pasted image 20230403113845",
-      "path": "Others/Assets/Pasted image 20230403113845.png"
-    },
-    {
-      "basename": "Pasted image 20230403114224",
-      "path": "Others/Assets/Pasted image 20230403114224.png"
-    },
-    {
-      "basename": "Pasted image 20230403114841",
-      "path": "Others/Assets/Pasted image 20230403114841.png"
-    },
-    {
-      "basename": "Pasted image 20230404120511",
-      "path": "Others/Assets/Pasted image 20230404120511.png"
-    },
-    {
-      "basename": "Pasted image 20230404121057",
-      "path": "Others/Assets/Pasted image 20230404121057.png"
-    },
-    {
-      "basename": "Pasted image 20230404174204",
-      "path": "Others/Assets/Pasted image 20230404174204.png"
     }
   ],
   "omittedPaths": [],
