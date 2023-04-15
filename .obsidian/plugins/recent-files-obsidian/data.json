@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "huggingGPT or Jarvis",
+      "path": "huggingGPT or Jarvis.md"
+    },
+    {
+      "basename": "Vicuna",
+      "path": "Llama/Vicuna.md"
+    },
+    {
+      "basename": "AutoGPT",
+      "path": "AutoGPT.md"
+    },
+    {
       "basename": "Pasted image 20230416055257",
       "path": "Others/Assets/Pasted image 20230416055257.png"
     },
@@ -11,10 +23,6 @@
     {
       "basename": "Vicuna Installation",
       "path": "Llama/Vicuna Installation.md"
-    },
-    {
-      "basename": "Vicuna",
-      "path": "Llama/Vicuna.md"
     },
     {
       "basename": "Llama Lora训练",
@@ -83,10 +91,6 @@
     {
       "basename": "Pasted image 20230416033845",
       "path": "Others/Assets/Pasted image 20230416033845.png"
-    },
-    {
-      "basename": "AutoGPT",
-      "path": "AutoGPT.md"
     },
     {
       "basename": "ChatGPT",
@@ -195,10 +199,6 @@
     {
       "basename": "Langchain",
       "path": "ChatGPT/Langchain.md"
-    },
-    {
-      "basename": "GPT4 + langchain + 公司业务数据和业务目标",
-      "path": "Career/GPT4 + langchain + 公司业务数据和业务目标.md"
     }
   ],
   "omittedPaths": [],

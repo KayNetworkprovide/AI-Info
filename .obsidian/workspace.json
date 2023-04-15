@@ -11,9 +11,11 @@
             "id": "55333a6e8114266c",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Others/Assets/Pasted image 20230416055257.png"
+                "file": "huggingGPT or Jarvis.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -103,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Others/Assets/Pasted image 20230416055257.png",
+                "file": "huggingGPT or Jarvis.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Others/Assets/Pasted image 20230416055257.png",
+                "file": "huggingGPT or Jarvis.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Others/Assets/Pasted image 20230416055257.png"
+                "file": "huggingGPT or Jarvis.md"
               }
             }
           },
@@ -173,12 +175,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47583ecb43de4c72",
+  "active": "55333a6e8114266c",
   "lastOpenFiles": [
-    "Others/Why open source model is dangerous.md",
-    "Others/Assets/Pasted image 20230416055257.png",
-    "Llama/Vicuna Installation.md",
     "Llama/Vicuna.md",
+    "AutoGPT.md",
+    "Others/Assets/Pasted image 20230416055257.png",
+    "阿里通义大模型.md",
+    "国内chatGPT镜像站.md",
+    "huggingGPT or Jarvis.md",
+    "Others/Assets/阿里达摩院通义大模型概述.pdf",
+    "Others/Assets/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers_-中英对照版-.pdf",
+    "Others/Assets/Generative Agents_ Interactive Simulacra of Human Behavior.pdf",
+    "LumaAI.md",
+    "Llama/LLaMA ＋ Text Generation WebUI ~ 大型語言模型網頁前端安裝教學.md",
+    "Llama/Databricks-dolly.md",
+    "Langchain + AutoGPT.md",
+    "DeepSpeed/DeepSpeed.md",
+    "DeepSpeed",
+    "Others/Why open source model is dangerous.md",
+    "Llama/Vicuna Installation.md",
     "Llama/Llama Lora训练.md",
     "Llama/LLAMA.md",
     "AI.md",
@@ -203,23 +218,11 @@
     "Large Language model are human-level prompt engineers.md",
     "Others/Assets/Pasted image 20230416033845.png",
     "Others/Assets/Pasted image 20230416033922.png",
-    "AutoGPT.md",
-    "ChatGPT/ChatGPT.md",
     "Llama",
     "vicuna.ps1",
-    "Midjourney+stable diffusion/Midjourney教程.md",
-    "Midjourney+stable diffusion/WebUI.md",
-    "Midjourney+stable diffusion/stable diffusion.md",
-    "Document AI.md",
-    "ChatGPT/GPT相关/BloombergGPT.md",
-    "ChatGPT/chatgpt底层算法.md",
     "Others/Assets/AIGC_探索AIGC在网易严选中的应用.pdf",
     "Others/Assets/2211.01910.pdf",
     "PromptEngineering/Untitled.canvas",
-    "News",
-    "Others/Assets/OpenAI-微调.pdf",
-    "ChatGPT/GPT相关",
-    "PromptEngineering",
-    "Career"
+    "News"
   ]
 }
