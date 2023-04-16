@@ -140,3 +140,5 @@ PDF下载地址
 PDF下载地址
 
 [https://arxiv.org/abs/2302.05206](https://arxiv.org/abs/2302.05206)
+
+[# 论文分享：新型注意力算法FlashAttention](https://www.bilibili.com/video/BV1zs4y1J7tb/?-Arouter=story&buvid=Z04E510301E2317E4258B86E9DE3EE9C4D01&is_story_h5=false&mid=VWzcmGUtEsG3cu5l2eCFlg%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=155A0611-EB32-4B6C-AD0D-CFAC1319AF7F&share_source=WEIXIN&share_tag=s_i&timestamp=1681395672&unique_k=Z176P67&up_id=1540261574)

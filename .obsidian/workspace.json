@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2205681adccd7dd8",
+        "id": "c3ad0b4e7c04adef",
         "type": "tabs",
         "children": [
           {
-            "id": "20e53f9d909bb401",
+            "id": "3d38328fc7fbc00f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Assets/Priming GPT-4 for Midjourney V5启动GPT-4 Midjourney V5.pdf"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -36,7 +34,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               }
             }
           },
@@ -46,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tiktok",
+                "query": "deeps",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -62,20 +60,12 @@
               "type": "starred",
               "state": {}
             }
-          },
-          {
-            "id": "6a95697b89404ea6",
-            "type": "leaf",
-            "state": {
-              "type": "recent-files",
-              "state": {}
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 297.5
   },
   "right": {
     "id": "7ce52d96cf482c15",
@@ -91,9 +81,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Priming GPT-4 for Midjourney V5启动GPT-4 Midjourney V5.pdf",
                 "collapseAll": true,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
@@ -108,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Priming GPT-4 for Midjourney V5启动GPT-4 Midjourney V5.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Assets/Priming GPT-4 for Midjourney V5启动GPT-4 Midjourney V5.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -142,8 +128,25 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
+          },
+          {
+            "id": "54afdae90ab5bd0b",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-chat-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "c5537bfc2ed27635",
+            "type": "leaf",
+            "state": {
+              "type": "smart-connections-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -161,54 +164,55 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47583ecb43de4c72",
+  "active": "3d38328fc7fbc00f",
   "lastOpenFiles": [
-    "Assets/161f46f9ec94f213c87e60c92d68ad3.jpg",
-    "Midjourney+stable diffusion/Midjourney教程.md",
-    "Assets/Priming GPT-4 for Midjourney V5启动GPT-4 Midjourney V5.pdf",
-    "Midjourney+stable diffusion/midjourney.md",
-    "Assets/计算机行业AIGC系列研究报告（三）：AIGC应用，C端赋能场景，B端数据筑基.pdf",
-    "ChatGPT/训练大模型.md",
-    "Assets/传媒行业证券研究报告：AIGC、chatGPT1小时培训.pdf",
+    "recentfile.md",
+    "Midjourney+stable diffusion/stable diffusion.md",
+    "Midjourney+stable diffusion/ControlNet其他公司版/segmentAnything.md",
+    "AnalysisWithGPT/ObsidianOPENAPI.md",
+    "Untitled mindmap.md",
+    "AIGC.md",
+    "Assets/Pasted image 20230416190816.png",
+    "Assets/Pasted image 20230416190901.png",
+    "Assets/fe28e57962a78a49b9a2abdc8e2829f.jpg",
+    "CodingAndArchitectureBasedOnAI/CodingAndArchitectureBasedOnAI.md",
+    "GodGPT/BabyAGI.md",
     "ChatGPT/ChatGPT.md",
-    "Assets/电子行业AIGC发展给电子带来的投资机遇.pdf",
-    "ChatGPT/Unconfirmed 434199.crdownload",
-    "Assets/计算机行业证券研究报告：AIGC时代的“卖铲人”.pdf",
-    "ChatGPT/Unconfirmed 373936.crdownload",
-    "ChatGPT/Unconfirmed 343379.crdownload",
-    "News/News.md",
-    "ChatGPT/Unconfirmed 198315.crdownload",
-    "Industry&Career/创业.md",
-    "Assets/70604951ae3515aea1acdc3d8b35c6c.jpg",
-    "Industry&Career/TikTok.md",
-    "Assets/Pasted image 20230416154851.png",
-    "Assets/2303.10130 GPTs are GPTs An Early Look at the Labor Market Impact Potential of Large Language Models(1).pdf",
-    "Industry&Career/历史时间线.md",
-    "IdeasAI.md",
-    "Assets/Pasted image 20230416155042.png",
-    "亚马逊全家桶Bedrock,Titan,CodeWhisperer.md",
-    "Untitled.md",
-    "PromptEngineering/Research-AI agent for Street Fighter.md",
-    "微软全家桶-DeepSpeed.md",
+    "ChatGPTReplacement/Tuningbox.md",
+    "ChatGPT/线上训练工具.md",
+    "ChatGPT/OpenAI GPT FineTune.md",
+    "OpenSourceLLMs/StackLlama.md",
     "ChatGPTReplacement/ChatGPTReplacement.md",
-    "ChatGPTReplacement/Anthropic Claude.md",
-    "OpenSourceLLMs/ChatGLM.md",
-    "OpenSourceLLMs/Databricks-dolly不基于llama.md",
-    "OpenSourceLLMs/Colossal-AI不基于Llama.md",
-    "Industry&Career/Industry&Career.md",
-    "Industry&Career/咨询/如何创立一家咨询公司.md",
-    "OpenSourceLLMs/GPT4All.md",
-    "OpenSourceLLMs/FastGPT.md",
-    "Built-on-top-of AI/Built-on-top-of AI.md",
-    "ChatGPT/Langchain.md",
-    "AutoGPT.md",
-    "Assets/Pasted image 20230416133014.png",
-    "Assets/Pasted image 20230416135616.png",
-    "Assets/b8499562ead803aac4969e6c363f800.jpg",
-    "Assets/150455ca84c7d9eac261b68d3d25746.jpg",
+    "LumaAI.md",
+    "Others/不需要深入的AI工具.md",
+    "GodGPT/GodGPT.md",
+    "AI-foundation.md",
+    "Career&Industry/创业/IdeasAI.md",
+    "Career&Industry/TikTok.md",
+    "Career&Industry/Industry&Career.md",
+    "Career&Industry/创业/创业.md",
+    "Career&Industry/创业/历史时间线.md",
+    "Career&Industry/创业/跨行业的bubbleai + nft.md",
+    "Career&Industry/金融语义分析量化.md",
+    "Career&Industry/创业",
+    "Assets/d03ece3d2819095d44868a408667022.jpg",
+    "OpenSourceLLMs/亚马逊全家桶Bedrock,Titan,CodeWhisperer.md",
+    "GodGPT",
+    "Assets/Pasted image 20230416184515.png",
+    "AnalysisWithGPT",
+    "AI agent(虚拟人类或者机器人完成任务)",
+    "Assets/Pasted image 20230416183708.png",
+    "Midjourney+stable diffusion/ControlNet其他公司版",
+    "Assets/Pasted image 20230416182532.png",
+    "Assets/ca92f9120e7e997d8b0279e1c4983a7.jpg",
+    "Assets/Pasted image 20230416180106.png",
+    "AutoGPTAgentGPTBabyAGI",
+    "Assets/20230331腾讯大模型专家学习笔记(1).pdf",
+    "Assets/Priming GPT-4 for Midjourney V5启动GPT-4 Midjourney V5.pdf",
+    "Assets/161f46f9ec94f213c87e60c92d68ad3.jpg",
+    "Assets/计算机行业AIGC系列研究报告（三）：AIGC应用，C端赋能场景，B端数据筑基.pdf",
+    "Assets/传媒行业证券研究报告：AIGC、chatGPT1小时培训.pdf",
     "Untitled.canvas",
-    "Assets/Pasted image 20230416063728.png",
-    "Assets/Pasted image 20230416055257.png",
     "PromptEngineering/Untitled.canvas"
   ]
 }

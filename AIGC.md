@@ -10,6 +10,7 @@
 
 
 # AIGC
+![[fe28e57962a78a49b9a2abdc8e2829f.jpg]]
 ![[150455ca84c7d9eac261b68d3d25746.jpg]]
 ![[Text-to-.png]]
 ![[Meta AI Speech From Brain.png]]![[The Gen-Al unicorn landscape.png]]![[Investor interest in generative AI soared in 2022.png]]

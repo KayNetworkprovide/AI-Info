@@ -1,0 +1,2 @@
+[# Open AI+smart connections搭建知识库，将笔记转换为交互式对话](https://www.bilibili.com/video/BV1Eh411g79d/?-Arouter=story&buvid=Z04E510301E2317E4258B86E9DE3EE9C4D01&is_story_h5=false&mid=VWzcmGUtEsG3cu5l2eCFlg%3D%3D&p=1&plat_id=143&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=F0AB4A62-A164-4A39-A184-EDB6CCC025D5&share_source=WEIXIN&share_tag=s_i&timestamp=1681477737&unique_k=gJiuw8s&up_id=625752715&vd_source=51c3e05edfa923bc859a70d024c2d7c9)
+
