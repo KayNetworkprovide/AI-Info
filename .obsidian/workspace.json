@@ -4,47 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "bf9f480bf9379fa8",
+        "id": "2205681adccd7dd8",
         "type": "tabs",
         "children": [
           {
-            "id": "f321b00c206fda53",
+            "id": "20e53f9d909bb401",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ChatFlow&Unit Mesh/Unit mesh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0673b8dcab73da09",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChatFlow&Unit Mesh/Unit mesh.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "36983e3cccf59eb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Research-AI agent for Street Fighter.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Priming GPT-4 for Midjourney V5启动GPT-4 Midjourney V5.pdf"
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -73,7 +46,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "MERGE_HEAD",
+                "query": "tiktok",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research-AI agent for Street Fighter.md",
+                "file": "Assets/Priming GPT-4 for Midjourney V5启动GPT-4 Midjourney V5.pdf",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research-AI agent for Street Fighter.md",
+                "file": "Assets/Priming GPT-4 for Midjourney V5启动GPT-4 Midjourney V5.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +131,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research-AI agent for Street Fighter.md"
+                "file": "Assets/Priming GPT-4 for Midjourney V5启动GPT-4 Midjourney V5.pdf"
               }
             }
           },
@@ -190,52 +163,52 @@
   },
   "active": "47583ecb43de4c72",
   "lastOpenFiles": [
-    "Assets/Pasted image 20230416063728.png",
-    "ChatFlow&Unit Mesh/Unit mesh.md",
-    "Research-AI agent for Street Fighter.md",
-    "ChatFlow&Unit Mesh/chatflow.md",
-    "ChatFlow&Unit Mesh",
-    "IdeasAI.md",
-    "AI.md",
-    "Jarvix huggingfaceGPT.md",
-    "huggingGPT or Jarvis.md",
-    "Llama/Vicuna.md",
-    "AutoGPT.md",
-    "Assets/Pasted image 20230416055257.png",
-    "阿里通义大模型.md",
-    "国内chatGPT镜像站.md",
-    "Assets/阿里达摩院通义大模型概述.pdf",
-    "Assets/The-Art-of-Asking-ChatGPT-for-High-Quality-Answers_-中英对照版-.pdf",
-    "Assets/Generative Agents_ Interactive Simulacra of Human Behavior.pdf",
-    "LumaAI.md",
-    "Llama/LLaMA ＋ Text Generation WebUI ~ 大型語言模型網頁前端安裝教學.md",
-    "Llama/Databricks-dolly.md",
-    "Langchain + AutoGPT.md",
-    "DeepSpeed/DeepSpeed.md",
-    "DeepSpeed",
-    "Others/Why open source model is dangerous.md",
-    "Llama/Vicuna Installation.md",
-    "Llama/Llama Lora训练.md",
-    "Llama/LLAMA.md",
-    "Assets/Pasted image 20230416055120.png",
-    "Assets/Pasted image 20230416045418.png",
-    "Why open source model is dangerous.pdf",
-    "Assets/Pasted image 20230416045408.png",
-    "Assets/Pasted image 20230416045343.png",
-    "Assets/Pasted image 20230416045333.png",
-    "Assets/Pasted image 20230416045317.png",
-    "ChatGPT-DAN.md",
-    "Assets/Pasted image 20230416041159.png",
-    "Llama/FastGPT.md",
+    "Assets/161f46f9ec94f213c87e60c92d68ad3.jpg",
+    "Midjourney+stable diffusion/Midjourney教程.md",
+    "Assets/Priming GPT-4 for Midjourney V5启动GPT-4 Midjourney V5.pdf",
+    "Midjourney+stable diffusion/midjourney.md",
+    "Assets/计算机行业AIGC系列研究报告（三）：AIGC应用，C端赋能场景，B端数据筑基.pdf",
+    "ChatGPT/训练大模型.md",
+    "Assets/传媒行业证券研究报告：AIGC、chatGPT1小时培训.pdf",
+    "ChatGPT/ChatGPT.md",
+    "Assets/电子行业AIGC发展给电子带来的投资机遇.pdf",
+    "ChatGPT/Unconfirmed 434199.crdownload",
+    "Assets/计算机行业证券研究报告：AIGC时代的“卖铲人”.pdf",
+    "ChatGPT/Unconfirmed 373936.crdownload",
+    "ChatGPT/Unconfirmed 343379.crdownload",
     "News/News.md",
-    "News/arXiv.md",
-    "Anthropic Claude.md",
-    "Assets/Pasted image 20230416033845.png",
-    "Assets/Pasted image 20230416033922.png",
-    "Llama",
-    "vicuna.ps1",
-    "Assets/AIGC_探索AIGC在网易严选中的应用.pdf",
-    "Assets/2211.01910.pdf",
+    "ChatGPT/Unconfirmed 198315.crdownload",
+    "Industry&Career/创业.md",
+    "Assets/70604951ae3515aea1acdc3d8b35c6c.jpg",
+    "Industry&Career/TikTok.md",
+    "Assets/Pasted image 20230416154851.png",
+    "Assets/2303.10130 GPTs are GPTs An Early Look at the Labor Market Impact Potential of Large Language Models(1).pdf",
+    "Industry&Career/历史时间线.md",
+    "IdeasAI.md",
+    "Assets/Pasted image 20230416155042.png",
+    "亚马逊全家桶Bedrock,Titan,CodeWhisperer.md",
+    "Untitled.md",
+    "PromptEngineering/Research-AI agent for Street Fighter.md",
+    "微软全家桶-DeepSpeed.md",
+    "ChatGPTReplacement/ChatGPTReplacement.md",
+    "ChatGPTReplacement/Anthropic Claude.md",
+    "OpenSourceLLMs/ChatGLM.md",
+    "OpenSourceLLMs/Databricks-dolly不基于llama.md",
+    "OpenSourceLLMs/Colossal-AI不基于Llama.md",
+    "Industry&Career/Industry&Career.md",
+    "Industry&Career/咨询/如何创立一家咨询公司.md",
+    "OpenSourceLLMs/GPT4All.md",
+    "OpenSourceLLMs/FastGPT.md",
+    "Built-on-top-of AI/Built-on-top-of AI.md",
+    "ChatGPT/Langchain.md",
+    "AutoGPT.md",
+    "Assets/Pasted image 20230416133014.png",
+    "Assets/Pasted image 20230416135616.png",
+    "Assets/b8499562ead803aac4969e6c363f800.jpg",
+    "Assets/150455ca84c7d9eac261b68d3d25746.jpg",
+    "Untitled.canvas",
+    "Assets/Pasted image 20230416063728.png",
+    "Assets/Pasted image 20230416055257.png",
     "PromptEngineering/Untitled.canvas"
   ]
 }
