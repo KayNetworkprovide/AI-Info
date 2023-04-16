@@ -155,7 +155,7 @@ Thanks so much to all of our amazing contributors!
 
 [![](https://raw.githubusercontent.com/hpcaitech/public_assets/main/colossalai/img/Chat-demo.png)](https://chat.colossalai.org/)
 
--   An open-source low cost solution for cloning [ChatGPT](https://openai.com/blog/chatgpt/) with a complete RLHF pipeline. [[demo]](https://chat.colossalai.org/)
+-   An open-source low cost solution for cloning [ChatGPT](https://openai.com/blog/chatgpt/) with a complete RLHF pipeline. (https://chat.colossalai.org/)
 
 [![](https://raw.githubusercontent.com/hpcaitech/public_assets/main/applications/chatgpt/ChatGPT%20scaling.png)](https://raw.githubusercontent.com/hpcaitech/public_assets/main/applications/chatgpt/ChatGPT%20scaling.png)
 

@@ -12,6 +12,14 @@
 
 [[Langchain]]**
 
+[[ChatGPT Jailbreak-DAN]]
+
+[[线上训练工具]]
+
+[[ChatGPTReplacement]]
+
+[[国内chatGPT镜像站]]
+
 **ChatGPT的预训练和调优方法的必读论文、相关博客和API工具**
 
 开源地址：github.com/shizhediao/ChatGPTPapers
@@ -31,7 +39,7 @@ ChatGPT中文指南：https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 ![[传媒行业证券研究报告：AIGC、chatGPT1小时培训.pdf]]
 
 ![[2303.10130 GPTs are GPTs An Early Look at the Labor Market Impact Potential of Large Language Models(1).pdf]]
-[[GPT相关]]
+
 ![[高盛重磅-生成式AI投资框架.pdf]]
 ![[ChatGPT，Plugin，互联网入口的终结者.pdf]]
 ![[ChatGPT技术原理解读.pdf]]

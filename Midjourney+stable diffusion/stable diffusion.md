@@ -6,7 +6,15 @@ InvokeAI
 
 LeonardoAI
 
+[[Controlnet v1.1]]
+
+[[ControlNet其他公司替代版]]
+
+Oneformer
+
 [刚刚Stable Diffusion XL模型发布，失望_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1vN411w75R/?buvid=Z04E510301E2317E4258B86E9DE3EE9C4D01&is_story_h5=false&mid=VWzcmGUtEsG3cu5l2eCFlg%3D%3D&p=1&plat_id=116&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=5391DE11-6BD8-4E3B-959C-00C150AEF407&share_source=WEIXIN&share_tag=s_i&timestamp=1681563982&unique_k=3SxAcGz&up_id=38292264)
+
+[[stable diffusion训练]]
 
 ![[ca92f9120e7e997d8b0279e1c4983a7.jpg]]
 

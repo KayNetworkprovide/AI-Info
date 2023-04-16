@@ -1,4 +1,3 @@
-[[AI-foundation]]
 
 [[ChatGPT/ChatGPT]]
 
