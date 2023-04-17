@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "712ad3a8c241fdfb",
+        "id": "c2274bed13644e9a",
         "type": "tabs",
         "children": [
           {
-            "id": "ec746cb3a0c15faa",
+            "id": "0f89e2458623fece",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Assets/Pasted image 20230416203036.png"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Pasted image 20230416203051.png",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Pasted image 20230416203051.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Assets/Pasted image 20230416203051.png"
-              }
+              "state": {}
             }
           },
           {
@@ -134,30 +128,13 @@
               "type": "advanced-tables-toolbar",
               "state": {}
             }
-          },
-          {
-            "id": "54afdae90ab5bd0b",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-chat-view",
-              "state": {}
-            }
-          },
-          {
-            "id": "c5537bfc2ed27635",
-            "type": "leaf",
-            "state": {
-              "type": "smart-connections-view",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200.5,
-    "collapsed": true
+    "width": 200.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,50 +147,50 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47583ecb43de4c72",
+  "active": "0f89e2458623fece",
   "lastOpenFiles": [
-    "Assets/Pasted image 20230416203036.png",
-    "OpenSourceLLMs/Databricks-dolly不基于llama.md",
+    "ChatGPT/训练大模型.md",
+    "GodGPT/GodGPT.md",
+    "Assets/e1dee3cc4d549fd0f133bd63b0ed9bc.jpg",
+    "Assets/6af7cc965f622ab0e30669d49b2c048.jpg",
+    "ChatGPT/ChatGPT相关论文.md",
+    "ChatGPT/ChatGPT.md",
+    "Assets/d1e6aad38edea4a0fdb12912f1e5466.jpg",
+    "Assets/Pasted image 20230417091621.png",
+    "Assets/a8a894d09ae58349335a0f9e7a20d4e.jpg",
+    "GodGPT/FastGPT.md",
+    "OpenSourceLLMs/Vicuna Installation.md",
+    "Assets/22319b9b8cf5adf403c5d8351e6b42c.jpg",
+    "Assets/586b18efc667927a213fed50d5fdba0.jpg",
+    "Assets/113f39b94641516fab0b6e0c187bb8e.jpg",
+    "Assets/Pasted image 20230417090909.png",
+    "Assets/Pasted image 20230417090857.png",
+    "ChatGPT/Langchain.md",
+    "AI agent/AI agent.md",
+    "AI agent/CSVAgent.md",
+    "AIGC.md",
+    "PromptEngineering/PromptEngineering.md",
     "ChatGPTReplacement/ChatGPTReplacement.md",
+    "OpenSourceLLMs/Databricks-dolly不基于llama.md",
     "ChatGPT/databricks-dolly-15k.jsonl",
     "ChatGPT/databricks-dolly-15k.jsonl.txt",
     "ChatGPTReplacement/OpenAssistant.md",
-    "Assets/Pasted image 20230416203051.png",
-    "ChatGPT/ChatGPT.md",
     "ChatGPT/chatgpt底层算法.md",
     "Midjourney+stable diffusion/stable diffusion.md",
     "Career&Industry/跨境电商/跨境电商.md",
-    "ChatGPT/训练大模型.md",
     "Midjourney+stable diffusion/stable diffusion训练.md",
     "AI agent/NPC 有生命了？ChatGPT AI 虚拟小镇，25 个 AI 居民的自由生活.md",
-    "AI agent/AI agent.md",
     "Midjourney+stable diffusion/ControlNet其他公司版/segmentAnything.md",
     "Midjourney+stable diffusion/ControlNet其他公司版/ControlNet其他公司替代版.md",
     "ToolsOrLLMNoNeedToPayAttention/ToolsOrLLMNoNeedToPayAttention.md",
     "ToolsOrLLMNoNeedToPayAttention/Why open source model is dangerous.md",
     "ToolsOrLLMNoNeedToPayAttention/Document AI.md",
     "Career&Industry/创业/创业.md",
-    "Career&Industry/创业/IdeasAI.md",
-    "ChatGPT/线上训练工具.md",
-    "ChatGPT/GPT相关/GPT相关.md",
-    "ChatGPT/GPT相关/GPT对职业影响.md",
-    "ChatGPT/ChatGPT相关论文.md",
-    "ChatGPTReplacement/BloombergGPT.md",
-    "OpenSourceLLMs/Colossal-AI不基于Llama.md",
-    "demo.md",
-    "Assets/Pasted image 20230416190816.png",
-    "Assets/Pasted image 20230416190901.png",
-    "Assets/fe28e57962a78a49b9a2abdc8e2829f.jpg",
     "Career&Industry/创业",
-    "Assets/d03ece3d2819095d44868a408667022.jpg",
     "GodGPT",
-    "Assets/Pasted image 20230416184515.png",
     "AnalysisWithGPT",
     "AI agent",
-    "Assets/Pasted image 20230416183708.png",
     "Midjourney+stable diffusion/ControlNet其他公司版",
-    "Assets/Pasted image 20230416182532.png",
-    "Assets/ca92f9120e7e997d8b0279e1c4983a7.jpg",
     "AutoGPTAgentGPTBabyAGI",
     "Assets/20230331腾讯大模型专家学习笔记(1).pdf",
     "Assets/Priming GPT-4 for Midjourney V5启动GPT-4 Midjourney V5.pdf",

@@ -1,5 +1,5 @@
 [UPDATED: CPU Vicuna | POWERFUL Local ChatGPT 🤯 Mindblowing Unrestricted GPT-4 - YouTube](https://www.youtube.com/watch?v=d4dk_7FptXk&t=314s&ab_channel=TroubleChute)
-
+![[22319b9b8cf5adf403c5d8351e6b42c.jpg]]
 得先装obagooba
 
 一键安装所有包括vicuna model:
