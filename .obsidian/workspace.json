@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "c2274bed13644e9a",
+        "id": "7cb477fee3c3d29e",
         "type": "tabs",
         "children": [
           {
-            "id": "0f89e2458623fece",
+            "id": "1c192f77ff9507bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT/Langchain.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -34,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime"
+                "sortOrder": "alphabetical"
               }
             }
           },
@@ -44,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Pythia",
+                "query": "langchain",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -60,12 +64,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "6a95697b89404ea6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 300
   },
   "right": {
     "id": "7ce52d96cf482c15",
@@ -81,8 +93,9 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ChatGPT/Langchain.md",
                 "collapseAll": true,
-                "extraContext": true,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": true,
                 "searchQuery": "",
@@ -97,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ChatGPT/Langchain.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ChatGPT/Langchain.md"
+              }
             }
           },
           {
@@ -129,12 +145,12 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,54 +163,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f89e2458623fece",
+  "active": "1c192f77ff9507bc",
   "lastOpenFiles": [
-    "ChatGPT/训练大模型.md",
-    "GodGPT/GodGPT.md",
-    "Assets/e1dee3cc4d549fd0f133bd63b0ed9bc.jpg",
-    "Assets/6af7cc965f622ab0e30669d49b2c048.jpg",
-    "ChatGPT/ChatGPT相关论文.md",
-    "ChatGPT/ChatGPT.md",
-    "Assets/d1e6aad38edea4a0fdb12912f1e5466.jpg",
-    "Assets/Pasted image 20230417091621.png",
-    "Assets/a8a894d09ae58349335a0f9e7a20d4e.jpg",
-    "GodGPT/FastGPT.md",
-    "OpenSourceLLMs/Vicuna Installation.md",
-    "Assets/22319b9b8cf5adf403c5d8351e6b42c.jpg",
-    "Assets/586b18efc667927a213fed50d5fdba0.jpg",
-    "Assets/113f39b94641516fab0b6e0c187bb8e.jpg",
-    "Assets/Pasted image 20230417090909.png",
-    "Assets/Pasted image 20230417090857.png",
-    "ChatGPT/Langchain.md",
     "AI agent/AI agent.md",
-    "AI agent/CSVAgent.md",
-    "AIGC.md",
-    "PromptEngineering/PromptEngineering.md",
     "ChatGPTReplacement/ChatGPTReplacement.md",
-    "OpenSourceLLMs/Databricks-dolly不基于llama.md",
-    "ChatGPT/databricks-dolly-15k.jsonl",
-    "ChatGPT/databricks-dolly-15k.jsonl.txt",
+    "ChatGPTReplacement/Tuningbox.md",
     "ChatGPTReplacement/OpenAssistant.md",
-    "ChatGPT/chatgpt底层算法.md",
-    "Midjourney+stable diffusion/stable diffusion.md",
-    "Career&Industry/跨境电商/跨境电商.md",
-    "Midjourney+stable diffusion/stable diffusion训练.md",
-    "AI agent/NPC 有生命了？ChatGPT AI 虚拟小镇，25 个 AI 居民的自由生活.md",
-    "Midjourney+stable diffusion/ControlNet其他公司版/segmentAnything.md",
-    "Midjourney+stable diffusion/ControlNet其他公司版/ControlNet其他公司替代版.md",
-    "ToolsOrLLMNoNeedToPayAttention/ToolsOrLLMNoNeedToPayAttention.md",
+    "AIGC.md",
+    "Vicuna.md",
+    "ToolsOrLLMNoNeedToPayAttention/阿里通义大模型.md",
     "ToolsOrLLMNoNeedToPayAttention/Why open source model is dangerous.md",
+    "ToolsOrLLMNoNeedToPayAttention/ToolsOrLLMNoNeedToPayAttention.md",
     "ToolsOrLLMNoNeedToPayAttention/Document AI.md",
-    "Career&Industry/创业/创业.md",
-    "Career&Industry/创业",
-    "GodGPT",
-    "AnalysisWithGPT",
-    "AI agent",
+    "ToolsOrLLMNoNeedToPayAttention",
+    "PromptEngineering/中英翻译-古诗都可以.md",
+    "OpenSourceLLMs/微软全家桶-DeepSpeed.md",
+    "OpenSourceLLMs/亚马逊全家桶Bedrock,Titan,CodeWhisperer.md",
+    "OpenSourceLLMs/Vicuna.md",
+    "OpenSourceLLMs/Vicuna Installation.md",
+    "OpenSourceLLMs/StackLlama.md",
+    "OpenSourceLLMs/OpenSourceLLMs.md",
+    "OpenSourceLLMs/Llama Lora训练.md",
+    "OpenSourceLLMs/LLaMA ＋ Text Generation WebUI ~ 大型語言模型網頁前端安裝教學.md",
+    "OpenSourceLLMs/LLAMA.md",
+    "OpenSourceLLMs/GPT4All.md",
+    "OpenSourceLLMs/FastGPT.md",
+    "OpenSourceLLMs/Databricks-dolly不基于llama.md",
+    "OpenSourceLLMs/Colossal-AI不基于Llama.md",
+    "OpenSourceLLMs/ChatGLM.md",
+    "OpenSourceLLMs",
+    "Midjourney+stable diffusion/stable diffusion训练.md",
     "Midjourney+stable diffusion/ControlNet其他公司版",
-    "AutoGPTAgentGPTBabyAGI",
-    "Assets/20230331腾讯大模型专家学习笔记(1).pdf",
-    "Assets/Priming GPT-4 for Midjourney V5启动GPT-4 Midjourney V5.pdf",
-    "Untitled.canvas",
+    "GodGPT",
+    "CodingAndArchitectureBasedOnAI",
+    "ChatGPTReplacement",
+    "ChatGPT/databricks-dolly-15k.jsonl",
+    "Career&Industry/跨境电商",
+    "Career&Industry/设计师",
+    "Career&Industry/咨询",
+    "Assets/fe28e57962a78a49b9a2abdc8e2829f.jpg",
+    "Assets/eb2a99df053a7ef3795b16a8434b409.jpg",
+    "Assets/e1dee3cc4d549fd0f133bd63b0ed9bc.jpg",
+    "Assets/e1dee3cc4d549fd0f133bd63b0ed9bc 1.jpg",
+    "Assets/d1e6aad38edea4a0fdb12912f1e5466.jpg",
+    "Assets/d03ece3d2819095d44868a408667022.jpg",
+    "Assets/ca92f9120e7e997d8b0279e1c4983a7.jpg",
+    "Assets/c7b133846572ebd52d7e18c38b75eed.jpg",
+    "Assets/c7b133846572ebd52d7e18c38b75eed 1.jpg",
+    "Assets/b8499562ead803aac4969e6c363f800.jpg",
     "PromptEngineering/Untitled.canvas"
   ]
 }
