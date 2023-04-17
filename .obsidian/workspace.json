@@ -47,9 +47,11 @@
             "id": "4a4ca8cf48d741a1",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Pasted image 20230417212846.png"
+                "file": "AIGC.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Pasted image 20230417212846.png",
+                "file": "AIGC.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -137,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Pasted image 20230417212846.png",
+                "file": "AIGC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -160,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Pasted image 20230417212846.png"
+                "file": "AIGC.md"
               }
             }
           },
@@ -190,14 +192,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47583ecb43de4c72",
+  "active": "4a4ca8cf48d741a1",
   "lastOpenFiles": [
+    "ChatGPT/ChatGPT.md",
     "AIGC.md",
+    "Assets/Pasted image 20230417212846.png",
     "GodGPT/agentGPT.md",
     "Assets/Pasted image 20230417213402.png",
     "News/arXiv.md",
     "Assets/Pasted image 20230417212849.png",
-    "Assets/Pasted image 20230417212846.png",
     "News/News.md",
     "OpenSourceLLMs/FastGPT.md",
     "GodGPT/FastGPT.md",
@@ -220,14 +223,12 @@
     "Assets/e1dee3cc4d549fd0f133bd63b0ed9bc.jpg",
     "Assets/6af7cc965f622ab0e30669d49b2c048.jpg",
     "ChatGPT/ChatGPT相关论文.md",
-    "ChatGPT/ChatGPT.md",
     "Assets/d1e6aad38edea4a0fdb12912f1e5466.jpg",
     "Assets/Pasted image 20230417091621.png",
     "Assets/a8a894d09ae58349335a0f9e7a20d4e.jpg",
     "OpenSourceLLMs/Vicuna Installation.md",
     "AI agent/AI agent.md",
     "AI agent/CSVAgent.md",
-    "PromptEngineering/PromptEngineering.md",
     "ChatGPT/databricks-dolly-15k.jsonl",
     "ChatGPT/databricks-dolly-15k.jsonl.txt",
     "Career&Industry/创业",

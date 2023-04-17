@@ -19,5 +19,6 @@
 
 ![[8345a7c67143aaa9cdf2b69bf64dbbb 2.jpg
 ![[eb2a99df053a7ef3795b16a8434b409.jpg]]
+[# Google CEO: AI impact to be more profound than discovery of fire, electricity | 60 Minutes](https://www.youtube.com/watch?v=W6HpE1rhs7w&ab_channel=60Minutes)
 [# Connecting AI to the internet is a big mistake | Max Tegmark and Lex Fridman](https://www.youtube.com/@LexClips)
 
