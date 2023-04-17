@@ -15,4 +15,4 @@ Use Atlas to:
 -   [Build high-availability apps powered by semantic search](https://langchain.readthedocs.io/en/latest/ecosystem/atlas.html)
 -   [Understand and debug the latent space of your AI model trains](https://docs.nomic.ai/pytorch_embedding_explorer.html)
 
-Read about [how Atlas works](https://docs.nomic.ai/how_does_atlas_work.html) or get started below!
+Read about [how   Atlas works](https://docs.nomic.ai/how_does_atlas_work.html) or get started below!

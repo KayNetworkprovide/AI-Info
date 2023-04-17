@@ -1,8 +1,9 @@
 #keepEye 
 [Computer science / machine learning](https://arxiv.org/list/cs.LG/recent)
+一键自动读arXiv论文
+[Science Cast](https://www.sciencecast.org/)
 
-
-
+![[Pasted image 20230417212849.png]]
 [arxiv](https://arxiv.org/)
 
 ![[Pasted image 20230405155441.png]]

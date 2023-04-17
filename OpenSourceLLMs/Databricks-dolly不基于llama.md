@@ -4,3 +4,7 @@
 这个不一样！可以被用作商业用途，不像Llama
 有提供数据集！！
 也是基于pythia EleutherAI
+
+
+
+[# DataBricks Dolly 2.0, Commercial Use, TRUE Open Source LLM](https://www.youtube.com/@engineerprompt)

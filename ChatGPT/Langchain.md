@@ -6,6 +6,8 @@
 [浅显易懂教程]
 https://youtu.be/LbT1yp6quS8 
 
+[# LangChain Crash Course - All You Need to Know to Build Powerful Apps with LLMs](https://www.youtube.com/watch?v=5-fc4Tlgmro)
+
 [LangChain：Model as a Service粘合剂，被ChatGPT插件干掉了吗？ (qq.com)](https://mp.weixin.qq.com/s/3coFhAdzr40tozn8f9Dc-w)
 
 https://learnprompting.org/docs/advanced_applications/mrkl

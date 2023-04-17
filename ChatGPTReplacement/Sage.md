@@ -1,7 +1,3 @@
-google旗下，还没出
-
-在poe.com能用
-
-
+[Sage AI – Medium](https://medium.com/sage-ai)
 [Claude/Sage Poe](https://poe.com/Claude%2B)
 ![[Pasted image 20230417152530.png]]
