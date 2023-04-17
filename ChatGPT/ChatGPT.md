@@ -14,7 +14,7 @@
 
 [[ChatGPT Jailbreak-DAN]]
 
-[[线上训练工具]]
+[[线上训练工具 和 线上自己模型代跑]]
 
 [[ChatGPTReplacement]]
 
