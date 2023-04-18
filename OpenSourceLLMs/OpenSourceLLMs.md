@@ -8,5 +8,6 @@
 [[LLAMA]]
 [[LLaMA ＋ Text Generation WebUI ~ 大型語言模型網頁前端安裝教學]][[ChatGLM]]
 [[Vicuna]]
+vicuna2
 [[Vicuna Installation]]
 [[Llama Lora训练]]
