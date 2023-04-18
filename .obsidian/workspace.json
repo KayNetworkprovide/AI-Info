@@ -49,14 +49,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AIGC.md",
+                "file": "Midjourney+stable diffusion/stable diffusion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e6a7fc33a17516ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI agent/CSVAgent.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ab2286ccfbe15b5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI agent/Cursor + pyt文件.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "970d2c4587701f25",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Career&Industry/创业/跨境电商GPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fbf744cb5d34bea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IndustryGPT/ResearchGPT Chatgpt-Academic SCISpace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "44132cb436dca2f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CodingAndArchitectureBasedOnAI/AutoCRUD.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -85,7 +145,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "atlas",
+                "query": "lora",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIGC.md",
+                "file": "CodingAndArchitectureBasedOnAI/AutoCRUD.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -139,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIGC.md",
+                "file": "CodingAndArchitectureBasedOnAI/AutoCRUD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIGC.md"
+                "file": "CodingAndArchitectureBasedOnAI/AutoCRUD.md"
               }
             }
           },
@@ -175,11 +235,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,43 +253,45 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4a4ca8cf48d741a1",
+  "active": "44132cb436dca2f9",
   "lastOpenFiles": [
-    "ChatGPT/ChatGPT.md",
+    "Assets/Pasted image 20230418091958.png",
+    "Assets/f05bcb813b378415b1eb217a11add3c 1.png",
+    "ChatGPTReplacement/Anthropic Claude.md",
+    "PromptEngineering/PromptEngineering.md",
+    "CodingAndArchitectureBasedOnAI/AutoCRUD.md",
+    "Assets/Pasted image 20230418092010.png",
+    "IndustryGPT/ResearchGPT Chatgpt-Academic SCISpace.md",
+    "IndustryGPT/DoctorGLM.md",
+    "AI agent/Cursor + pyt文件.md",
+    "AI agent/CSVAgent.md",
+    "Midjourney+stable diffusion/Lora论文.md",
+    "ToolsOrLLMNoNeedToPayAttention/ToolsOrLLMNoNeedToPayAttention.md",
+    "Midjourney+stable diffusion/imageOrVideo-Video.md",
+    "Midjourney+stable diffusion/stable diffusion.md",
     "AIGC.md",
-    "Assets/Pasted image 20230417212846.png",
+    "Assets/Pasted image 20230418085135.png",
+    "Assets/Pasted image 20230418085113.png",
+    "Assets/ed107b984a284181c8328dce66d05e5.jpg",
+    "Assets/Pasted image 20230418084709.png",
+    "Assets/Pasted image 20230418084701.png",
+    "Assets/Pasted image 20230418084648.png",
+    "Assets/Pasted image 20230418084639.png",
+    "Assets/Pasted image 20230418084626.png",
+    "Career&Industry/创业/跨境电商GPT.md",
+    "IndustryGPT",
+    "ChatGPT/ChatGPT.md",
     "GodGPT/agentGPT.md",
-    "Assets/Pasted image 20230417213402.png",
     "News/arXiv.md",
-    "Assets/Pasted image 20230417212849.png",
     "News/News.md",
     "OpenSourceLLMs/FastGPT.md",
     "GodGPT/FastGPT.md",
     "GodGPT/MemoryGPT.md",
-    "Assets/Pasted image 20230417212202.png",
     "GodGPT/GodGPT.md",
     "ChatGPTReplacement/OpenAssistant.md",
     "ChatGPTReplacement/ChatGPTReplacement.md",
     "ChatGPTReplacement/Dragonfly.md",
     "ChatGPTReplacement/Sage.md",
-    "ChatGPTReplacement/BloombergGPT.md",
-    "ChatGPTReplacement/Anthropic Claude.md",
-    "ChatGPTReplacement/ResearchGPT.md",
-    "OpenSourceLLMs/Databricks-dolly不基于llama.md",
-    "ChatGPT/Langchain.md",
-    "AnalysisWithGPT/Atlas.nomic.ai.md",
-    "ChatGPT/线上训练工具 和 线上自己模型代跑.md",
-    "Assets/Pasted image 20230417152530.png",
-    "ChatGPT/训练大模型.md",
-    "Assets/e1dee3cc4d549fd0f133bd63b0ed9bc.jpg",
-    "Assets/6af7cc965f622ab0e30669d49b2c048.jpg",
-    "ChatGPT/ChatGPT相关论文.md",
-    "Assets/d1e6aad38edea4a0fdb12912f1e5466.jpg",
-    "Assets/Pasted image 20230417091621.png",
-    "Assets/a8a894d09ae58349335a0f9e7a20d4e.jpg",
-    "OpenSourceLLMs/Vicuna Installation.md",
-    "AI agent/AI agent.md",
-    "AI agent/CSVAgent.md",
     "ChatGPT/databricks-dolly-15k.jsonl",
     "ChatGPT/databricks-dolly-15k.jsonl.txt",
     "Career&Industry/创业",
@@ -238,7 +301,6 @@
     "Midjourney+stable diffusion/ControlNet其他公司版",
     "AutoGPTAgentGPTBabyAGI",
     "Assets/20230331腾讯大模型专家学习笔记(1).pdf",
-    "Assets/Priming GPT-4 for Midjourney V5启动GPT-4 Midjourney V5.pdf",
     "Untitled.canvas",
     "PromptEngineering/Untitled.canvas"
   ]

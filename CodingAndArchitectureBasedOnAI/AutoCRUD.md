@@ -1,0 +1,2 @@
+[# AutoCRUD - 自动化的 CRUD 代码编写：ChatGPT + Intellij IDEA 结合会变成怎样？](https://www.bilibili.com/video/BV1KT411x7Wn/?-Arouter=story&buvid=Z04E510301E2317E4258B86E9DE3EE9C4D01&is_story_h5=false&mid=VWzcmGUtEsG3cu5l2eCFlg%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=0DE56183-EC06-4145-85C8-7ECC201AB60E&share_source=WEIXIN&share_tag=s_i&timestamp=1681735608&unique_k=UnEPESX&up_id=475312678)
+![[Pasted image 20230418091958.png]]

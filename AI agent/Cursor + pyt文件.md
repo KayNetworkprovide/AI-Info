@@ -1,0 +1,2 @@
+[# AI代码生成：新时代，人人都是程序员](https://www.bilibili.com/video/BV1x84y1w7N8/?-Arouter=story&buvid=Z04E510301E2317E4258B86E9DE3EE9C4D01&is_story_h5=false&mid=VWzcmGUtEsG3cu5l2eCFlg%3D%3D&p=1&plat_id=143&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=9119C84F-AEEE-459D-81FB-0F21706939F0&share_source=WEIXIN&share_tag=s_i&timestamp=1681773122&unique_k=1YLnlB3&up_id=11461761)
+Cursor做深度学习建模，pyt 文件，pytorch 自动分几类，基本炼丹概念

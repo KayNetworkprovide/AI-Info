@@ -8,8 +8,8 @@
 
 
 
-# AIGC
-
+# AIGC![[Pasted image 20230418085113.png]]
+![[Pasted image 20230418085135.png]]
 ![[fe28e57962a78a49b9a2abdc8e2829f.jpg]]
 ![[150455ca84c7d9eac261b68d3d25746.jpg]]
 ![[Text-to-.png]]
@@ -22,3 +22,8 @@
 [# Google CEO: AI impact to be more profound than discovery of fire, electricity | 60 Minutes](https://www.youtube.com/watch?v=W6HpE1rhs7w&ab_channel=60Minutes)
 [# Connecting AI to the internet is a big mistake | Max Tegmark and Lex Fridman](https://www.youtube.com/@LexClips)
 
+[# Is GPT-4 conscious? | Max Tegmark and Lex Fridman](https://www.youtube.com/@LexClips)
+
+[# Why AI will destroy human civilization | Max Tegmark and Lex Fridman](https://www.youtube.com/@LexClips)
+
+[# 中国最容易和最难被GPT所代替的TOP25职业！](https://mp.weixin.qq.com/s/wVIEkzmR030c0MNl8-C7lw)

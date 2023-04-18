@@ -11,4 +11,4 @@
 
 [[OpenAssistant]]
 
-[[ResearchGPT]]
+[[ResearchGPT Chatgpt-Academic SCISpace]]
