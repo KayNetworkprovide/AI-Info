@@ -11,13 +11,64 @@
             "id": "1c192f77ff9507bc",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Pasted image 20230418153411.png"
+                "file": "Midjourney+stable diffusion/stable diffusion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "35ab2e89696a1259",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IndustryGPT/ResearchGPT Chatgpt-Academic SCISpace.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "799bd3ade2f6aeb4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPTReplacement/vercel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e038cfa372deb20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenSourceLLMs/微软全家桶-DeepSpeed.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "eef85ffc362f7d54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenSourceLLMs/FastGPT.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -46,7 +97,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "image/video",
+                "query": "线上",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Pasted image 20230418153411.png",
+                "file": "ChatGPTReplacement/vercel.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Pasted image 20230418153411.png",
+                "file": "ChatGPTReplacement/vercel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Pasted image 20230418153411.png"
+                "file": "ChatGPTReplacement/vercel.md"
               }
             }
           },
@@ -147,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5,
-    "collapsed": true
+    "width": 200.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,28 +211,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47583ecb43de4c72",
+  "active": "799bd3ade2f6aeb4",
   "lastOpenFiles": [
-    "IndustryGPT/DoctorGLM.md",
+    "Pasted image 20230419162456.png",
+    "IndustryGPT/ResearchGPT Chatgpt-Academic SCISpace.md",
+    "ChatGPTReplacement/vercel.md",
+    "OpenSourceLLMs/FastGPT.md",
+    "OpenSourceLLMs/OpenSourceLLMs.md",
+    "OpenSourceLLMs/Vicuna Installation.md",
     "ChatGPT/线上训练工具 和 线上自己模型代跑 和 线上GPU.md",
+    "ChatGPT/ChatGPT.md",
+    "OpenSourceLLMs/GPT4All.md",
+    "Midjourney+stable diffusion/imageOrVideo-Video.md",
+    "OpenSourceLLMs/StackLlama.md",
+    "OpenSourceLLMs/RedPajama.md",
+    "OpenSourceLLMs/LLAMA.md",
+    "OpenSourceLLMs/Llama Lora训练.md",
+    "OpenSourceLLMs/微软全家桶-DeepSpeed.md",
+    "OpenSourceLLMs/Databricks-dolly不基于llama.md",
+    "OpenSourceLLMs/ChatGLM.md",
+    "IndustryGPT/DoctorGLM.md",
+    "News/News.md",
+    "Midjourney+stable diffusion/stable diffusion原理.md",
+    "Assets/Pasted image 20230418172326.png",
+    "Midjourney+stable diffusion/stable diffusion.md",
+    "ChatGPT/训练大模型.md",
+    "ChatGPT/训练大模型",
+    "Untitled.canvas",
+    "Assets/Pasted image 20230418153411.png",
     "CodingAndArchitectureBasedOnAI/Unit mesh.md",
     "CodingAndArchitectureBasedOnAI/Prompt数据库.md",
     "CodingAndArchitectureBasedOnAI/Gradio.md",
-    "IndustryGPT/ResearchGPT Chatgpt-Academic SCISpace.md",
     "CodingAndArchitectureBasedOnAI/chatflow.md",
-    "Assets/Pasted image 20230418153411.png",
-    "CodingAndArchitectureBasedOnAI/CodingAndArchitectureBasedOnAI.md",
-    "CodingAndArchitectureBasedOnAI/ElementorAI.md",
-    "CodingAndArchitectureBasedOnAI/RPA+GPT.md",
-    "ChatGPTReplacement/OpenAssistant.md",
-    "CodingAndArchitectureBasedOnAI/AutoCRUD.md",
-    "Midjourney+stable diffusion/imageOrVideo-Video.md",
-    "ToolsOrLLMNoNeedToPayAttention/Why open source model is dangerous.md",
     "IndustryGPT",
-    "GodGPT/MemoryGPT.md",
-    "ChatGPTReplacement/Sage.md",
-    "ChatGPTReplacement/Dragonfly.md",
-    "Career&Industry/创业/跨境电商GPT.md",
     "Assets/f05bcb813b378415b1eb217a11add3c.png",
     "Assets/f05bcb813b378415b1eb217a11add3c 1.png",
     "Assets/ed107b984a284181c8328dce66d05e5.jpg",
@@ -191,15 +252,6 @@
     "Assets/Pasted image 20230418085135.png",
     "Assets/Pasted image 20230418085113.png",
     "Assets/Pasted image 20230418084709.png",
-    "Assets/Pasted image 20230418084701.png",
-    "AI agent/Cursor + pyt文件.md",
-    "ToolsOrLLMNoNeedToPayAttention/Document AI.md",
-    "News/arXiv.md",
-    "News/News.md",
-    "Midjourney+stable diffusion/WebUI.md",
-    "Midjourney+stable diffusion/stable diffusion训练.md",
-    "Midjourney+stable diffusion/stable diffusion.md",
-    "Midjourney+stable diffusion/Midjourney教程.md",
     "ToolsOrLLMNoNeedToPayAttention",
     "OpenSourceLLMs",
     "Midjourney+stable diffusion/ControlNet其他公司版",
@@ -208,7 +260,6 @@
     "ChatGPTReplacement",
     "ChatGPT/databricks-dolly-15k.jsonl",
     "Career&Industry/跨境电商",
-    "Career&Industry/设计师",
     "PromptEngineering/Untitled.canvas"
   ]
 }
