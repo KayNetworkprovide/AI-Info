@@ -12,3 +12,5 @@
 [[OpenAssistant]]
 
 [[ResearchGPT Chatgpt-Academic SCISpace]]
+
+[[rchatgpt]]各种合集

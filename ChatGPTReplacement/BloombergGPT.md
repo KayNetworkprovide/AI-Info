@@ -1,6 +1,8 @@
 #keepEye 
 [Bloomberg L.P. | About, Careers, Products, Contacts](https://www.bloomberg.com/company)
 
+基于下面这个model
+**BigScience Bloom, which is freely available for research and enterprise purposes**. Bloom was trained over 117 days at the supercomputing center of the French National Center for Scientific Research and is 176 billion parameters in size.
 Dec29.22 - Apr4.23 (美国办公室)
 ![[Pasted image 20230404180341.png]]
 
