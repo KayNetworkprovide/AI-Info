@@ -1,7 +1,21 @@
 #keepEye 
-[Bloomberg L.P. | About, Careers, Products, Contacts](https://www.bloomberg.com/company)
+[BloombergGPT论文简介_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Dg4y1u7fh/?spm_id_from=333.999.0.0&vd_source=51c3e05edfa923bc859a70d024c2d7c9) 这个有具体对比说的很好！
+![[Pasted image 20230504104205.png]]
+其实只用了569亿数据，因为loss没有再降低了，所以没继续训练了，跟他数据和模型架构有一定相关性的
+它用的Unigram model,没用greedy merged based sub-word tokenizers
+**应该是专业名词比较多，不希望拆分**
+![[Pasted image 20230504104905.png]]
+Llama只有32000个token,但是bloomberge因为用了unigram，所以有130000个token
+![[Pasted image 20230504104741.png]]
+数据集主要是common crawl,和bloomberg自己的数据
+50b比起gptNeox反倒不太行，
+![[Pasted image 20230504105408.png]]
 
-基于下面这个model
+![[Pasted image 20230504105440.png]]
+![[Pasted image 20230504105651.png]]
+**结论就是只在金融上好，结果达到了，但没有达到预期**
+[Bloomberg L.P. | About, Careers, Products, Contacts](https://www.bloomberg.com/company)
+![[Pasted image 20230504105955.png]]
 **BigScience Bloom, which is freely available for research and enterprise purposes**. Bloom was trained over 117 days at the supercomputing center of the French National Center for Scientific Research and is 176 billion parameters in size.
 Dec29.22 - Apr4.23 (美国办公室)
 ![[Pasted image 20230404180341.png]]

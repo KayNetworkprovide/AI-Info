@@ -55,4 +55,4 @@ ChatGPT中文指南：https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 ![[ChatGPT技术原理解读.pdf]]
 ![[基于认知管理和AIGC的软件构建模式.pdf]]
 ![[154页微软GPT研究报告（全中文版）(1).pdf]]
-![[ChatGPT_ppf.pdf]]
+![[ChatGPT_ppf.pdf]]![[0f12d435e0e741cd0026d386ea292252.pdf]]

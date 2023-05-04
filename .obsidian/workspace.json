@@ -8,7 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bae683fa4109e688",
+            "id": "77ea5025db5ba2bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT/OpenAI GPT FineTune.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f0e2541433c78ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenSourceLLMs/OpenSourceLLMs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "98c109b5090a0504",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,36 +44,12 @@
             }
           },
           {
-            "id": "231b96c14ed27f6a",
+            "id": "0f3f41f666163f3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career&Industry/创业/7 habits of highly effective people.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d59e3d49ad727e7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AIGC.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d75c96fb58fa8f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career&Industry/创业/7 habits of highly effective people.md",
+                "file": "ChatGPT/ChatGPT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "线上",
+                "query": "gpt4all",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AIGC.md",
+                "file": "Career&Industry/创业/咨询公司/咨询公司.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AIGC.md",
+                "file": "Career&Industry/创业/咨询公司/咨询公司.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AIGC.md"
+                "file": "Career&Industry/创业/咨询公司/咨询公司.md"
               }
             }
           },
@@ -199,55 +199,55 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "47583ecb43de4c72",
+  "active": "98c109b5090a0504",
   "lastOpenFiles": [
-    "AI Investment",
-    "MachineAndDeepLearning/MachineAndDeepLearning.md",
-    "MachineAndDeepLearning/Python for Probability,Statistics, and Machine Learning.md",
-    "Assets/7cbb6fdd660fb2c0f0580bfd6ed73040_Python for Probability, Statistics, and Machine Learning.pdf",
-    "MachineAndDeepLearning/Hyperparameter Tuning for machine and deep learning with R.md",
-    "Assets/Pasted image 20230427171204.png",
-    "Assets/978-981-19-5170-1.pdf",
-    "Career&Industry/创业/7 habits of highly effective people.md",
-    "MachineAndDeepLearning",
-    "Assets/Pasted image 20230427170604.png",
-    "Assets/Pasted image 20230427170514.png",
-    "Career&Industry/创业/咨询公司/咨询公司.md",
+    "Career&Industry/创业/创业.md",
     "Career&Industry/创业/跨境兴趣电商.md",
+    "Career&Industry/创业/咨询公司/咨询公司.md",
+    "Career&Industry/创业/Untitled.md",
+    "Assets/Pasted image 20230504101916.png",
+    "Assets/Pasted image 20230504104205.png",
+    "Assets/Pasted image 20230504115546.png",
+    "OpenSourceLLMs/DeepSpeed.md",
+    "OpenSourceLLMs/OpenSourceLLMs.md",
+    "ChatGPT/ChatGPT.md",
+    "Assets/0f12d435e0e741cd0026d386ea292252.pdf",
+    "AIGC.md",
+    "News/大模型训练大神.md",
+    "OpenSourceLLMs/LLaMA ＋ Text Generation WebUI ~ 大型語言模型網頁前端安裝教學.md",
+    "OpenSourceLLMs/GPT4All.md",
+    "Assets/Pasted image 20230504114620.png",
+    "Assets/Pasted image 20230504114611.png",
+    "Assets/Pasted image 20230504114555.png",
+    "Assets/Pasted image 20230504114547.png",
+    "Assets/Pasted image 20230504114435.png",
+    "Assets/Pasted image 20230504114137.png",
+    "Assets/Pasted image 20230504114058.png",
+    "Assets/ChatGPT调教宝典.pdf",
+    "ChatGPT/OpenAI GPT FineTune.md",
+    "ChatGPT/ViperGPT.md",
+    "ChatGPT/visual chatgpt.md",
+    "ChatGPTReplacement/BloombergGPT.md",
+    "OpenSourceLLMs/ChatGLM.md",
+    "MachineAndDeepLearning/显卡性能.md",
+    "MachineAndDeepLearning/MachineAndDeepLearning.md",
+    "ChatGPT/训练大模型.md",
+    "ChatGPT/大模型数据来源.md",
+    "ChatGPT/线上训练工具 和 线上自己模型代跑 和 线上GPU.md",
+    "OpenSourceLLMs/ColossalChat.md",
+    "OpenSourceLLMs/Colossal-AI不基于Llama.md",
+    "TODO.md",
+    "OpenSourceLLMs/FreedomGPT.md",
+    "OpenSourceLLMs/ChatLlama.md",
+    "AI Investment",
+    "Assets/7cbb6fdd660fb2c0f0580bfd6ed73040_Python for Probability, Statistics, and Machine Learning.pdf",
+    "Assets/978-981-19-5170-1.pdf",
+    "MachineAndDeepLearning",
     "Career&Industry/创业/咨询公司/供应商资源/4.7-4.9深圳玩具展（上）.pdf",
     "Career&Industry/创业/咨询公司/供应商资源",
     "Career&Industry/创业/咨询公司",
-    "Career&Industry/创业/创业.md",
-    "Career&Industry/创业/AI全流程代运营公司.md",
-    "Career&Industry/创业/专门做OpenAI plugins的公司.md",
-    "Assets/Pasted image 20230426105558.png",
-    "Career&Industry/创业/行动计划.md",
-    "Career&Industry/创业/跨境高订公司.md",
-    "AIGC.md",
-    "Assets/Pasted image 20230426105545.png",
-    "Assets/Pasted image 20230426105530.png",
-    "Career&Industry/创业/IdeasAI.md",
-    "Career&Industry/创业/历史时间线.md",
-    "News/GeneralTechNews.md",
-    "News/News.md",
-    "Assets/Pasted image 20230424145640.png",
-    "OpenSourceLLMs/OpenSourceLLMs.md",
-    "Midjourney+stable diffusion/MidJourney Replacement.md",
-    "Assets/Pasted image 20230424145629.png",
-    "ChatGPTReplacement/BloombergGPT.md",
-    "OpenSourceLLMs/MOSS.md",
-    "ChatGPTReplacement/ChatGPTReplacement.md",
-    "ChatGPTReplacement/rchatgpt.md",
-    "ChatGPTReplacement/vercel.md",
-    "Assets/Pasted image 20230419162456.png",
-    "IndustryGPT/ResearchGPT Chatgpt-Academic SCISpace.md",
-    "OpenSourceLLMs/FastGPT.md",
-    "Assets/Pasted image 20230418172326.png",
     "ChatGPT/训练大模型",
     "Untitled.canvas",
-    "IndustryGPT",
-    "ToolsOrLLMNoNeedToPayAttention",
-    "OpenSourceLLMs",
     "PromptEngineering/Untitled.canvas"
   ]
 }
