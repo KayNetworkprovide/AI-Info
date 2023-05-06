@@ -54,12 +54,24 @@
             }
           },
           {
+            "id": "2d234a8e7ec924c2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Career&Industry/优先级.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "55dbbd223cc3c7f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career&Industry/被优化Checklist.md",
+                "file": "Career&Industry/AI JD.md",
                 "mode": "source",
                 "source": false
               }
@@ -107,7 +119,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gpt4all",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career&Industry/被优化Checklist.md",
+                "file": "Career&Industry/优先级.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career&Industry/被优化Checklist.md",
+                "file": "Career&Industry/优先级.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career&Industry/被优化Checklist.md"
+                "file": "Career&Industry/优先级.md"
               }
             }
           },
@@ -221,12 +233,24 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55dbbd223cc3c7f5",
+  "active": "2d234a8e7ec924c2",
   "lastOpenFiles": [
-    "Career&Industry/优先级.md",
     "Career&Industry/被优化Checklist.md",
-    "Career&Industry/创业/咨询公司/供应商资源/4.7-4.9深圳玩具展（上）.pdf",
+    "Career&Industry/优先级.md",
+    "Career&Industry/AI JD.md",
+    "Pasted image 20230505114935.png",
+    "Pasted image 20230505114923.png",
+    "Career&Industry/跨境电商/跨境电商 - 易佰网络.md",
+    "Career&Industry/Career&Industry.md",
+    "Career&Industry/mle被裁后心态崩溃，最后成功上岸！.md",
+    "Career&Industry/TikTok.md",
+    "Career&Industry/金融语义分析量化.md",
+    "ToolsOrLLMNoNeedToPayAttention/ToolsOrLLMNoNeedToPayAttention.md",
+    "AIGC.md",
+    "Career&Industry/创业/行动计划.md",
+    "Career&Industry/创业/咨询公司/Leverage.md",
     "Career&Industry/创业/咨询公司/咨询公司.md",
+    "Career&Industry/创业/咨询公司/供应商资源/4.7-4.9深圳玩具展（上）.pdf",
     "Career&Industry/创业/创业.md",
     "Career&Industry/创业/跨境兴趣电商.md",
     "Career&Industry/创业/Untitled.md",
@@ -237,7 +261,6 @@
     "OpenSourceLLMs/OpenSourceLLMs.md",
     "ChatGPT/ChatGPT.md",
     "Assets/0f12d435e0e741cd0026d386ea292252.pdf",
-    "AIGC.md",
     "News/大模型训练大神.md",
     "OpenSourceLLMs/LLaMA ＋ Text Generation WebUI ~ 大型語言模型網頁前端安裝教學.md",
     "OpenSourceLLMs/GPT4All.md",
@@ -246,22 +269,10 @@
     "Assets/Pasted image 20230504114555.png",
     "Assets/Pasted image 20230504114547.png",
     "Assets/Pasted image 20230504114435.png",
-    "Assets/Pasted image 20230504114137.png",
-    "Assets/Pasted image 20230504114058.png",
     "Assets/ChatGPT调教宝典.pdf",
     "ChatGPT/OpenAI GPT FineTune.md",
     "ChatGPT/ViperGPT.md",
     "ChatGPT/visual chatgpt.md",
-    "ChatGPTReplacement/BloombergGPT.md",
-    "OpenSourceLLMs/ChatGLM.md",
-    "MachineAndDeepLearning/显卡性能.md",
-    "MachineAndDeepLearning/MachineAndDeepLearning.md",
-    "ChatGPT/训练大模型.md",
-    "ChatGPT/大模型数据来源.md",
-    "ChatGPT/线上训练工具 和 线上自己模型代跑 和 线上GPU.md",
-    "OpenSourceLLMs/ColossalChat.md",
-    "OpenSourceLLMs/Colossal-AI不基于Llama.md",
-    "TODO.md",
     "AI Investment",
     "Assets/7cbb6fdd660fb2c0f0580bfd6ed73040_Python for Probability, Statistics, and Machine Learning.pdf",
     "Assets/978-981-19-5170-1.pdf",

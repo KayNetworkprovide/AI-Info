@@ -18,3 +18,5 @@ ChatExcel
 [[阿里通义大模型]]
 
 [[Why open source model is dangerous]]
+
+[Nolibox：国产AI工具出击，零基础也能成为可商用设计师！ (qq.com)](https://mp.weixin.qq.com/s/qjL42jfOC9Vi0tIS2DW_iw)
