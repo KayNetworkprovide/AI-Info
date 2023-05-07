@@ -66,6 +66,42 @@
             }
           },
           {
+            "id": "37f09159ccd0f1f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Career&Industry/创业/海外仓/海外仓.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "479e8a30b15da018",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Career&Industry/创业/海外店铺代运营/海外店铺代运营.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7cfe6980cd242abe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Career&Industry/创业/创业.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "53fc47082869751f",
             "type": "leaf",
             "state": {
@@ -90,7 +126,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -164,7 +200,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career&Industry/创业/跨境流量驱动兴趣电商/跨境流量驱动兴趣电商.md",
+                "file": "Career&Industry/创业/创业.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +217,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career&Industry/创业/跨境流量驱动兴趣电商/跨境流量驱动兴趣电商.md",
+                "file": "Career&Industry/创业/创业.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +240,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career&Industry/创业/跨境流量驱动兴趣电商/跨境流量驱动兴趣电商.md"
+                "file": "Career&Industry/创业/创业.md"
               }
             }
           },
@@ -233,20 +269,25 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "55dbbd223cc3c7f5",
+  "active": "7cfe6980cd242abe",
   "lastOpenFiles": [
-    "Career&Industry/创业/跨境流量驱动兴趣电商/各阶段成本.md",
+    "Career&Industry/创业/历史时间线.md",
+    "Career&Industry/创业/创业.md",
+    "Career&Industry/创业/行动计划/行动计划.md",
+    "Career&Industry/创业/海外店铺代运营/海外店铺代运营.md",
+    "Career&Industry/创业/海外仓/海外仓.md",
+    "Career&Industry/创业/海外店铺代运营",
     "Career&Industry/创业/跨境流量驱动兴趣电商/跨境流量驱动兴趣电商.md",
+    "Career&Industry/创业/海外仓",
+    "Career&Industry/创业/跨境流量驱动兴趣电商/各阶段成本.md",
     "Career&Industry/创业/Untitled.md",
     "Career&Industry/创业/跨境流量驱动兴趣电商",
     "Career&Industry/创业/行动计划/构思和市场调研.md",
     "Assets/Pasted image 20230506173056.png",
     "Career&Industry/创业/行动计划/注册公司.md",
-    "Career&Industry/创业/行动计划/行动计划.md",
     "Career&Industry/创业/行动计划",
     "Career&Industry/AI JD.md",
     "Career&Industry/创业/咨询公司/咨询公司.md",
-    "Career&Industry/创业/创业.md",
     "Career&Industry/创业/AI全流程代运营公司.md",
     "Career&Industry/被优化Checklist.md",
     "Assets/Pasted image 20230506173051.png",
@@ -269,8 +310,6 @@
     "OpenSourceLLMs/OpenSourceLLMs.md",
     "ChatGPT/ChatGPT.md",
     "Assets/0f12d435e0e741cd0026d386ea292252.pdf",
-    "News/大模型训练大神.md",
-    "OpenSourceLLMs/LLaMA ＋ Text Generation WebUI ~ 大型語言模型網頁前端安裝教學.md",
     "Assets/Pasted image 20230504114620.png",
     "Assets/Pasted image 20230504114611.png",
     "Assets/Pasted image 20230504114555.png",
@@ -278,8 +317,6 @@
     "AI Investment",
     "Assets/7cbb6fdd660fb2c0f0580bfd6ed73040_Python for Probability, Statistics, and Machine Learning.pdf",
     "Assets/978-981-19-5170-1.pdf",
-    "MachineAndDeepLearning",
-    "Career&Industry/创业/咨询公司/供应商资源",
     "Untitled.canvas",
     "PromptEngineering/Untitled.canvas"
   ]
