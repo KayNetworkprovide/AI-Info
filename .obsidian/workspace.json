@@ -8,125 +8,42 @@
         "type": "tabs",
         "children": [
           {
-            "id": "77ea5025db5ba2bf",
+            "id": "b90c651f9f13a2e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ChatGPT/OpenAI GPT FineTune.md",
+                "file": "2023-05-09.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f0e2541433c78ed5",
+            "id": "5b6ede1153595835",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenSourceLLMs/OpenSourceLLMs.md",
+                "file": "Career&Industry/创业/创业.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "98c109b5090a0504",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "Career&Industry/创业/咨询公司/供应商资源/4.7-4.9深圳玩具展（上）.pdf"
-              }
-            }
-          },
-          {
-            "id": "34e08f9e8446cfb7",
+            "id": "bbc908c8bf935afb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career&Industry/创业/跨境流量驱动兴趣电商/跨境流量驱动兴趣电商.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "55dbbd223cc3c7f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career&Industry/创业/跨境流量驱动兴趣电商/跨境流量驱动兴趣电商.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "37f09159ccd0f1f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career&Industry/创业/海外仓/海外仓.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "479e8a30b15da018",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career&Industry/创业/海外店铺代运营/海外店铺代运营.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7cfe6980cd242abe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career&Industry/创业/海外仓/海外仓.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "53fc47082869751f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career&Industry/创业/跨境流量驱动兴趣电商/各阶段成本.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0f3f41f666163f3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChatGPT/ChatGPT.md",
+                "file": "Career&Industry/创业/行动计划/行动计划.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career&Industry/创业/跨境流量驱动兴趣电商/跨境流量驱动兴趣电商.md",
+                "file": "2023-05-09.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -217,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career&Industry/创业/跨境流量驱动兴趣电商/跨境流量驱动兴趣电商.md",
+                "file": "2023-05-09.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career&Industry/创业/跨境流量驱动兴趣电商/跨境流量驱动兴趣电商.md"
+                "file": "2023-05-09.md"
               }
             }
           },
@@ -269,18 +186,27 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "34e08f9e8446cfb7",
+  "active": "b90c651f9f13a2e1",
   "lastOpenFiles": [
-    "Career&Industry/创业/咨询公司/咨询公司.md",
+    "Career&Industry/创业/行动计划/行动计划.md",
+    "2023-05-09.md",
+    "Career&Industry/创业/创业.md",
+    "Career&Industry/被优化Checklist.md",
+    "TODO.md",
+    "Career&Industry/优先级.md",
+    "Career&Industry/金融语义分析量化.md",
+    "Career&Industry/创业/跨境流量驱动兴趣电商/各阶段成本.md",
+    "ChatGPT/ChatGPT.md",
     "Career&Industry/创业/海外仓/海外仓.md",
     "Career&Industry/创业/海外店铺代运营/海外店铺代运营.md",
-    "Career&Industry/创业/创业.md",
-    "Career&Industry/创业/历史时间线.md",
-    "Career&Industry/创业/行动计划/行动计划.md",
-    "Career&Industry/创业/海外店铺代运营",
     "Career&Industry/创业/跨境流量驱动兴趣电商/跨境流量驱动兴趣电商.md",
+    "Career&Industry/创业/咨询公司/供应商资源/4.7-4.9深圳玩具展（上）.pdf",
+    "ChatGPT/OpenAI GPT FineTune.md",
+    "OpenSourceLLMs/OpenSourceLLMs.md",
+    "Career&Industry/创业/咨询公司/咨询公司.md",
+    "Career&Industry/创业/历史时间线.md",
+    "Career&Industry/创业/海外店铺代运营",
     "Career&Industry/创业/海外仓",
-    "Career&Industry/创业/跨境流量驱动兴趣电商/各阶段成本.md",
     "Career&Industry/创业/Untitled.md",
     "Career&Industry/创业/跨境流量驱动兴趣电商",
     "Career&Industry/创业/行动计划/构思和市场调研.md",
@@ -289,26 +215,17 @@
     "Career&Industry/创业/行动计划",
     "Career&Industry/AI JD.md",
     "Career&Industry/创业/AI全流程代运营公司.md",
-    "Career&Industry/被优化Checklist.md",
     "Assets/Pasted image 20230506173051.png",
-    "Career&Industry/优先级.md",
     "Assets/Pasted image 20230505114935.png",
     "Assets/Pasted image 20230505114923.png",
     "Career&Industry/跨境电商/跨境电商 - 易佰网络.md",
     "Career&Industry/Career&Industry.md",
     "Career&Industry/mle被裁后心态崩溃，最后成功上岸！.md",
     "Career&Industry/TikTok.md",
-    "Career&Industry/金融语义分析量化.md",
     "ToolsOrLLMNoNeedToPayAttention/ToolsOrLLMNoNeedToPayAttention.md",
-    "AIGC.md",
-    "Career&Industry/创业/咨询公司/Leverage.md",
-    "Career&Industry/创业/咨询公司/供应商资源/4.7-4.9深圳玩具展（上）.pdf",
     "Assets/Pasted image 20230504101916.png",
     "Assets/Pasted image 20230504104205.png",
     "Assets/Pasted image 20230504115546.png",
-    "OpenSourceLLMs/DeepSpeed.md",
-    "OpenSourceLLMs/OpenSourceLLMs.md",
-    "ChatGPT/ChatGPT.md",
     "Assets/0f12d435e0e741cd0026d386ea292252.pdf",
     "Assets/Pasted image 20230504114620.png",
     "Assets/Pasted image 20230504114611.png",
