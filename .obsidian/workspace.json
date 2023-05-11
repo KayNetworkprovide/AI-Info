@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-05-09.md",
+                "file": "Career&Industry/优先级.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career&Industry/创业/创业.md",
+                "file": "Career&Industry/创业/IdeasAI.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,13 +37,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career&Industry/创业/行动计划/行动计划.md",
+                "file": "News/大模型训练大神.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4ae5730cac83deaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Career&Industry/创业/咨询公司/咨询公司.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -117,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-09.md",
+                "file": "Career&Industry/创业/咨询公司/咨询公司.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-09.md",
+                "file": "Career&Industry/创业/咨询公司/咨询公司.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-05-09.md"
+                "file": "Career&Industry/创业/咨询公司/咨询公司.md"
               }
             }
           },
@@ -186,14 +199,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b90c651f9f13a2e1",
+  "active": "4ae5730cac83deaf",
   "lastOpenFiles": [
-    "Career&Industry/创业/行动计划/行动计划.md",
-    "2023-05-09.md",
     "Career&Industry/创业/创业.md",
+    "News/大模型训练大神.md",
+    "News/News.md",
+    "News/GeneralTechNews.md",
+    "News/arXiv.md",
+    "Career&Industry/创业/咨询公司/咨询公司.md",
+    "Career&Industry/优先级.md",
+    "Career&Industry/AI JD.md",
+    "2023-05-09.md",
+    "Career&Industry/创业/行动计划/行动计划.md",
+    "Career&Industry/创业/IdeasAI.md",
+    "Career&Industry/有没有什么实体行业（蓝领工作）可以因为AIGC有大幅增效的？.md",
     "Career&Industry/被优化Checklist.md",
     "TODO.md",
-    "Career&Industry/优先级.md",
     "Career&Industry/金融语义分析量化.md",
     "Career&Industry/创业/跨境流量驱动兴趣电商/各阶段成本.md",
     "ChatGPT/ChatGPT.md",
@@ -203,7 +224,6 @@
     "Career&Industry/创业/咨询公司/供应商资源/4.7-4.9深圳玩具展（上）.pdf",
     "ChatGPT/OpenAI GPT FineTune.md",
     "OpenSourceLLMs/OpenSourceLLMs.md",
-    "Career&Industry/创业/咨询公司/咨询公司.md",
     "Career&Industry/创业/历史时间线.md",
     "Career&Industry/创业/海外店铺代运营",
     "Career&Industry/创业/海外仓",
@@ -213,16 +233,9 @@
     "Assets/Pasted image 20230506173056.png",
     "Career&Industry/创业/行动计划/注册公司.md",
     "Career&Industry/创业/行动计划",
-    "Career&Industry/AI JD.md",
-    "Career&Industry/创业/AI全流程代运营公司.md",
     "Assets/Pasted image 20230506173051.png",
     "Assets/Pasted image 20230505114935.png",
     "Assets/Pasted image 20230505114923.png",
-    "Career&Industry/跨境电商/跨境电商 - 易佰网络.md",
-    "Career&Industry/Career&Industry.md",
-    "Career&Industry/mle被裁后心态崩溃，最后成功上岸！.md",
-    "Career&Industry/TikTok.md",
-    "ToolsOrLLMNoNeedToPayAttention/ToolsOrLLMNoNeedToPayAttention.md",
     "Assets/Pasted image 20230504101916.png",
     "Assets/Pasted image 20230504104205.png",
     "Assets/Pasted image 20230504115546.png",
