@@ -1,3 +1,4 @@
+[# 大模型的涌现到底是什么？](https://www.bilibili.com/video/BV1bo4y147si/?-Arouter=story&buvid=Z04E510301E2317E4258B86E9DE3EE9C4D01&is_story_h5=false&mid=VWzcmGUtEsG3cu5l2eCFlg%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=8F8F9BDE-7B10-43F3-A55D-D7091C8A9D43&share_source=WEIXIN&share_tag=s_i&timestamp=1684124595&unique_k=1gGluE4&up_id=503558013&vd_source=51c3e05edfa923bc859a70d024c2d7c9)
 
  
 

@@ -12,6 +12,11 @@ vicuna2
 [[Vicuna Installation]]
 [[Llama Lora训练]]
 [[MOSS]]
+[[RedPajama]]
+[[StarCoder]]
+
+[Open LLMs benchmark大模型能力评测标准计划 (qq.com)](https://mp.weixin.qq.com/s/8j-_ke79RWqHgIqFnxHNFQ)
+
 
 [Hannibal046/Awesome-LLM: Awesome-LLM: a curated list of Large Language Model (github.com)](https://github.com/Hannibal046/Awesome-LLM)
 ![[Pasted image 20230504114547.png]]

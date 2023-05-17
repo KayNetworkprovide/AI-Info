@@ -20,6 +20,10 @@
 
 [[国内chatGPT镜像站]]
 
+[# 【2023最新版机器学习】李宏毅大佬又出新课了！主讲【生成式AI】方面，含最近巨火的ChatGPT、Stable Diffusion、DALL-E、Imagen](https://www.bilibili.com/video/BV1Uh411j76o/?-Arouter=story&buvid=Z04E510301E2317E4258B86E9DE3EE9C4D01&is_story_h5=false&mid=VWzcmGUtEsG3cu5l2eCFlg%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=43686605-29AD-42BC-A534-3A619A5948AD&share_source=WEIXIN&share_tag=s_i&timestamp=1683732754&unique_k=ZJ5Dbrc&up_id=2146772950&vd_source=51c3e05edfa923bc859a70d024c2d7c9)
+
+
+
 ![[e1dee3cc4d549fd0f133bd63b0ed9bc 1.jpg]]
 **ChatGPT的预训练和调优方法的必读论文、相关博客和API工具**
 
@@ -37,7 +41,7 @@ ChatGPT中文指南：https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 [# GPT-4论文精读【论文精读·53】](https://www.bilibili.com/video/BV1vM4y1U7b5/?-Arouter=story&buvid=Z04E510301E2317E4258B86E9DE3EE9C4D01&is_story_h5=false&mid=VWzcmGUtEsG3cu5l2eCFlg%3D%3D&p=1&plat_id=143&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=1FBF6BF2-CAB7-4BBD-90C5-B59DB8634B9C&share_source=WEIXIN&share_tag=s_i&timestamp=1680430480&unique_k=NtN2Q9U&up_id=1567748478&vd_source=51c3e05edfa923bc859a70d024c2d7c9)
 [# Sparks of AGI Experiments with an early version of GPT-4](https://youtu.be/qOoe3ZpciI0)
 [# ‘We Must Slow Down the Race’ – X AI, Musk, GPT 4 Can Now Do Science & Altman GPT 5 Statement](https://www.youtube.com/watch?v=qOoe3ZpciI0&feature=youtu.be)
-
+[# 美国人真的开始害怕AI了](https://mp.weixin.qq.com/s/1_EIKn_oHPAFFwXfqYc-GQ)
 ![[Pasted image 20230417091621.png]]
 
 ![[d1e6aad38edea4a0fdb12912f1e5466.jpg]]

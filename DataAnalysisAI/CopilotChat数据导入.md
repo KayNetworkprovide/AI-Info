@@ -1,0 +1,2 @@
+[# 微软开源Copilot Chat：新增数据导入！可打造专属ChatGPT](https://mp.weixin.qq.com/s/F6VCM5KtAp-6dJnf2rQHbg)
+[# Prompt Engineering 第二课：对不同行业的影响以及用例介绍](https://www.bilibili.com/video/BV1aV4y1o7J8/?-Arouter=story&buvid=Z04E510301E2317E4258B86E9DE3EE9C4D01&is_story_h5=false&mid=VWzcmGUtEsG3cu5l2eCFlg%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=41C67F89-85AB-45AC-9084-8992AC7C6CCF&share_source=WEIXIN&share_tag=s_i&timestamp=1683595907&unique_k=9ilyJ2r&up_id=253017959&vd_source=51c3e05edfa923bc859a70d024c2d7c9)

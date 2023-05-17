@@ -8,7 +8,67 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b90c651f9f13a2e1",
+            "id": "5a7a4d9559615f5c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT/ChatGPT相关论文.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "baca189a38ae72ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenSourceLLMs/OpenSourceLLMs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4262ba08bf10d2a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ChatGPT/ChatGPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4d52e50e4c3bdc82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "EnterpriseAI/EnterpriseAI.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b07917626002faf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DataAnalysisAI/CopilotChat数据导入.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ae2be0969bd1e99c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,45 +78,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "5b6ede1153595835",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career&Industry/创业/IdeasAI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "bbc908c8bf935afb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "News/大模型训练大神.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4ae5730cac83deaf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Career&Industry/创业/咨询公司/咨询公司.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -85,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "wats",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career&Industry/创业/咨询公司/咨询公司.md",
+                "file": "Career&Industry/优先级.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career&Industry/创业/咨询公司/咨询公司.md",
+                "file": "Career&Industry/优先级.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career&Industry/创业/咨询公司/咨询公司.md"
+                "file": "Career&Industry/优先级.md"
               }
             }
           },
@@ -199,54 +223,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4ae5730cac83deaf",
+  "active": "ae2be0969bd1e99c",
   "lastOpenFiles": [
     "Career&Industry/创业/创业.md",
-    "News/大模型训练大神.md",
-    "News/News.md",
-    "News/GeneralTechNews.md",
-    "News/arXiv.md",
-    "Career&Industry/创业/咨询公司/咨询公司.md",
+    "Career&Industry/跨境电商/chatGPT和电商狂飙.md",
+    "EnterpriseAI/EnterpriseAI.md",
     "Career&Industry/优先级.md",
-    "Career&Industry/AI JD.md",
-    "2023-05-09.md",
-    "Career&Industry/创业/行动计划/行动计划.md",
-    "Career&Industry/创业/IdeasAI.md",
-    "Career&Industry/有没有什么实体行业（蓝领工作）可以因为AIGC有大幅增效的？.md",
-    "Career&Industry/被优化Checklist.md",
-    "TODO.md",
-    "Career&Industry/金融语义分析量化.md",
-    "Career&Industry/创业/跨境流量驱动兴趣电商/各阶段成本.md",
+    "DataAnalysisAI/CopilotChat数据导入.md",
+    "Pasted image 20230516171945.png",
+    "【奥纬咨询】ChatGPT如何协助合规部门的工作？ 【洞见研报DJyanbao.com】.pdf",
+    "ToolsOrLLMNoNeedToPayAttention/ToolsOrLLMNoNeedToPayAttention.md",
+    "讯飞星火、天工、文心测试（真格基金题库）.xlsx",
+    "Pasted image 20230516170744.png",
     "ChatGPT/ChatGPT.md",
-    "Career&Industry/创业/海外仓/海外仓.md",
-    "Career&Industry/创业/海外店铺代运营/海外店铺代运营.md",
-    "Career&Industry/创业/跨境流量驱动兴趣电商/跨境流量驱动兴趣电商.md",
-    "Career&Industry/创业/咨询公司/供应商资源/4.7-4.9深圳玩具展（上）.pdf",
-    "ChatGPT/OpenAI GPT FineTune.md",
+    "EnterpriseAI",
     "OpenSourceLLMs/OpenSourceLLMs.md",
-    "Career&Industry/创业/历史时间线.md",
-    "Career&Industry/创业/海外店铺代运营",
-    "Career&Industry/创业/海外仓",
-    "Career&Industry/创业/Untitled.md",
-    "Career&Industry/创业/跨境流量驱动兴趣电商",
-    "Career&Industry/创业/行动计划/构思和市场调研.md",
+    "DeepLearning/DeepLearning.md",
+    "DeepLearning",
+    "ChatGPT/ChatGPT相关论文.md",
+    "ChatGPT/LLM底层技术.md",
+    "ChatGPTReplacement/Google AIGC全家桶.md",
+    "ChatGPT/10931683775634_.pic.jpg",
+    "DataAnalysisAI/DataAnalysisAI.md",
+    "Pasted image 20230516163022.png",
+    "AccoutingAI/AccountingAI.md",
+    "TradingAI/TradingAI.md",
+    "AccoutingAI",
+    "Career&Industry/SSRN-id4412788.pdf",
+    "2023-05-09.md",
+    "ChatGPT/AI知识库.md",
+    "TradingAI",
+    "ChatGPTReplacement/Anthropic Claude.md",
+    "DataAnalysisAI/ChatGPT+Pandas.md",
+    "Career&Industry/创业/咨询公司/咨询公司.md",
+    "Career&Industry/创业/跨境流量驱动兴趣电商/跨境流量驱动兴趣电商.md",
+    "Career&Industry/创业/跨境流量驱动兴趣电商/各阶段成本.md",
+    "MachineAndDeepLearning/MachineAndDeepLearning.md",
+    "Career&Industry/Pasted image 20230515105944.png",
+    "ToolsOrLLMNoNeedToPayAttention/超越 数据集.md",
+    "Career&Industry/跨境电商/西帅本帅.md",
+    "Career&Industry/跨境电商/跨境电商.md",
+    "VirtualHuman",
+    "GPTDataSets",
+    "DataAnalysisAI",
     "Assets/Pasted image 20230506173056.png",
-    "Career&Industry/创业/行动计划/注册公司.md",
-    "Career&Industry/创业/行动计划",
     "Assets/Pasted image 20230506173051.png",
     "Assets/Pasted image 20230505114935.png",
     "Assets/Pasted image 20230505114923.png",
     "Assets/Pasted image 20230504101916.png",
-    "Assets/Pasted image 20230504104205.png",
-    "Assets/Pasted image 20230504115546.png",
-    "Assets/0f12d435e0e741cd0026d386ea292252.pdf",
-    "Assets/Pasted image 20230504114620.png",
-    "Assets/Pasted image 20230504114611.png",
-    "Assets/Pasted image 20230504114555.png",
-    "Assets/ChatGPT调教宝典.pdf",
-    "AI Investment",
-    "Assets/7cbb6fdd660fb2c0f0580bfd6ed73040_Python for Probability, Statistics, and Machine Learning.pdf",
-    "Assets/978-981-19-5170-1.pdf",
     "Untitled.canvas",
     "PromptEngineering/Untitled.canvas"
   ]
