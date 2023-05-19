@@ -1,3 +1,5 @@
+[# 用GPTQ算法量化大型模型 大幅减少GPU使用并提高准确率](https://www.bilibili.com/video/BV1od4y1f72q/?-Arouter=story&buvid=Z04E510301E2317E4258B86E9DE3EE9C4D01&is_story_h5=false&mid=VWzcmGUtEsG3cu5l2eCFlg%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=5634E8A4-49E5-43AF-932E-2F46673BCC47&share_source=WEIXIN&share_tag=s_i&timestamp=1684232636&unique_k=6w6Ezg3&up_id=478674499&vd_source=51c3e05edfa923bc859a70d024c2d7c9)
+
 
 玩过的vicuna model：
 ***记得分清navdia CUDA GPTQ版本和普通版本！！***

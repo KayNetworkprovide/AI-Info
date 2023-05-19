@@ -8,66 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5a7a4d9559615f5c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChatGPT/ChatGPT相关论文.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "baca189a38ae72ec",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OpenSourceLLMs/OpenSourceLLMs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4262ba08bf10d2a9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ChatGPT/ChatGPT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4d52e50e4c3bdc82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EnterpriseAI/EnterpriseAI.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b07917626002faf9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DataAnalysisAI/CopilotChat数据导入.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ae2be0969bd1e99c",
             "type": "leaf",
             "state": {
@@ -78,9 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8a31d1b5e8d1115a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OpenSourceLLMs/Ziya-Llama-13b.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,6 +85,14 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "fdb603412878eefc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -154,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career&Industry/优先级.md",
+                "file": "OpenSourceLLMs/Ziya-Llama-13b.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career&Industry/优先级.md",
+                "file": "OpenSourceLLMs/Ziya-Llama-13b.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career&Industry/优先级.md"
+                "file": "OpenSourceLLMs/Ziya-Llama-13b.md"
               }
             }
           },
@@ -223,54 +183,54 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae2be0969bd1e99c",
+  "active": "8a31d1b5e8d1115a",
   "lastOpenFiles": [
+    "Career&Industry/被优化Checklist.md",
+    "OpenSourceLLMs/Ziya-Llama-13b.md",
+    "ChatGPT/ChatGPT相关论文.md",
+    "OpenSourceLLMs/Together.md",
+    "OpenSourceLLMs/OpenSourceLLMs.md",
+    "CodingAndArchitectureBasedOnAI/NON-AI-Architectures.md",
+    "CodingAndArchitectureBasedOnAI/SQLTo业务逻辑.md",
+    "Assets/Pasted image 20230518100141.png",
+    "OpenSourceLLMs/Vicuna.md",
+    "Career&Industry/VideoMakerAI/VideoMakerAI.md",
+    "Career&Industry/mle被裁后心态崩溃，最后成功上岸！.md",
+    "Career&Industry/VideoMakerAI",
+    "Career&Industry/AI JD.md",
+    "Assets/SSRN-id4412788.pdf",
+    "Assets/Pasted image 20230516171945.png",
+    "ChatGPT/Langchain.md",
+    "CodingAndArchitectureBasedOnAI/FrontendAndAI.md",
+    "Assets/11211684233657_.pic.jpg",
+    "Career&Industry/IndustryGPT/DoctorGLM.md",
+    "ChatGPT/ChatGPT.md",
+    "Assets/AIGC发展研究1.0版0.91.pdf",
+    "Assets/AI大模型市场研究报告2023-迈向通用人工智能，大模型拉开新时代序幕 -沙利文.pdf",
+    "Career&Industry/优先级.md",
     "Career&Industry/创业/创业.md",
     "Career&Industry/跨境电商/chatGPT和电商狂飙.md",
-    "EnterpriseAI/EnterpriseAI.md",
-    "Career&Industry/优先级.md",
+    "Career&Industry/EnterpriseAI/EnterpriseAI.md",
     "DataAnalysisAI/CopilotChat数据导入.md",
-    "Pasted image 20230516171945.png",
-    "【奥纬咨询】ChatGPT如何协助合规部门的工作？ 【洞见研报DJyanbao.com】.pdf",
+    "Assets/【奥纬咨询】ChatGPT如何协助合规部门的工作？ 【洞见研报DJyanbao.com】.pdf",
     "ToolsOrLLMNoNeedToPayAttention/ToolsOrLLMNoNeedToPayAttention.md",
     "讯飞星火、天工、文心测试（真格基金题库）.xlsx",
-    "Pasted image 20230516170744.png",
-    "ChatGPT/ChatGPT.md",
-    "EnterpriseAI",
-    "OpenSourceLLMs/OpenSourceLLMs.md",
+    "Assets/Pasted image 20230516170744.png",
+    "Career&Industry/EnterpriseAI",
     "DeepLearning/DeepLearning.md",
     "DeepLearning",
-    "ChatGPT/ChatGPT相关论文.md",
     "ChatGPT/LLM底层技术.md",
     "ChatGPTReplacement/Google AIGC全家桶.md",
     "ChatGPT/10931683775634_.pic.jpg",
     "DataAnalysisAI/DataAnalysisAI.md",
-    "Pasted image 20230516163022.png",
+    "Assets/Pasted image 20230516163022.png",
     "AccoutingAI/AccountingAI.md",
-    "TradingAI/TradingAI.md",
     "AccoutingAI",
-    "Career&Industry/SSRN-id4412788.pdf",
-    "2023-05-09.md",
-    "ChatGPT/AI知识库.md",
-    "TradingAI",
-    "ChatGPTReplacement/Anthropic Claude.md",
-    "DataAnalysisAI/ChatGPT+Pandas.md",
-    "Career&Industry/创业/咨询公司/咨询公司.md",
-    "Career&Industry/创业/跨境流量驱动兴趣电商/跨境流量驱动兴趣电商.md",
-    "Career&Industry/创业/跨境流量驱动兴趣电商/各阶段成本.md",
-    "MachineAndDeepLearning/MachineAndDeepLearning.md",
-    "Career&Industry/Pasted image 20230515105944.png",
-    "ToolsOrLLMNoNeedToPayAttention/超越 数据集.md",
-    "Career&Industry/跨境电商/西帅本帅.md",
-    "Career&Industry/跨境电商/跨境电商.md",
-    "VirtualHuman",
-    "GPTDataSets",
-    "DataAnalysisAI",
+    "Career&Industry/TradingAI",
+    "Assets/Pasted image 20230515105944.png",
     "Assets/Pasted image 20230506173056.png",
     "Assets/Pasted image 20230506173051.png",
     "Assets/Pasted image 20230505114935.png",
-    "Assets/Pasted image 20230505114923.png",
-    "Assets/Pasted image 20230504101916.png",
     "Untitled.canvas",
     "PromptEngineering/Untitled.canvas"
   ]

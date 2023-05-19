@@ -1,3 +1,33 @@
+**RedPajama-INCITE开源产品介绍**
+
+RedPajama-INCITE（以下简称RedPajama）是在5月5日才开源的类ChatGPT产品，主要提供30亿、70亿两种参数，特点是功能强大算力消耗低，可在笔记本、普通显卡运行，适用于中小企业和个人开发者。
+
+30亿参数：主要包括基础款、聊天款和指令调优三个版本。在8000亿token数据集上进行训练，在HELM和Eleuther的测试中比同类的GPT-Neo、Pythia-2.8B更优秀。自动生成的文本丝滑流畅，可以加入拟人化情感。
+
+![Image](https://mmbiz.qpic.cn/mmbiz_png/bVibMfbuuqMl190C9icdaEAAvgaolSXZDo7WA4eQsKRXd4hZTGoDvQDiaMV50hQbcBE5xMsKNqu8SryMjJfaJjnaA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+30亿参数开源地址：https://huggingface.co/togethercomputer/RedPajama-INCITE-Base-3B-v1
+
+70亿参数：也是在8000亿token数据集上进行训练，RedPajama希望扩大至1万亿。主要包括基础款、聊天款和指令调优三个版本。其中，指令调优版本的测试结果非常棒，甚至高于LLama-7B版本。
+
+70亿参数开源地址：https://huggingface.co/togethercomputer/RedPajama-INCITE-Chat-7B-v0.1
+
+![Image](https://mmbiz.qpic.cn/mmbiz_png/bVibMfbuuqMl190C9icdaEAAvgaolSXZDoiceTqic9gHtE6wXP8SVYvYdVEcd70KvUj9wCcPInNelgOTaCsKmWb1cA/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+**RedPajama曾开源1.2万亿token训练数据集**
+
+今年4月17日，RedPajama曾宣布开源1.2万亿token数据集，帮助开发者训练类ChatGPT大语言模型。（开源地址：https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T）
+
+RedPajama完美复制了LLaMA模型上的1.2万亿训练数据集，按照其论文的数据模式从维基百科、GitHub、普通抓取、C4、图书、ArXiv、Stack Exchange抓取了1.2万亿训练数据，并进行了数据优化、过滤。
+
+其中，普通抓取渠道获取了8780亿数据，并通过多个质量过滤器进行过滤，包括选择类似维基百科页面的线性分类器。C4获取1750亿，基于标准 C4 数据集。GitHub获取590亿，按许可证和质量过滤；图书获取260亿，包括开放书籍的语料库，并根据内容相似性进行去重。
+
+ArXiv获取280亿，去除了样板文件的科学文章。维基百科获取240亿，基于子集数据删除了样板内容。StackExchange获取200亿，基于子集数据删除了样板内容。目前，Together正在打造RedPajama V2，这是一个包含2万亿token的训练数据集。
+
+![Image](https://mmbiz.qpic.cn/mmbiz_png/bVibMfbuuqMl190C9icdaEAAvgaolSXZDocvYficE1MaSpib0U9ticIx6pceE3GjJ5ib2I9h0LG4xblKUha7JtUt0Iaw/640?wx_fmt=png&wxfrom=5&wx_lazy=1&wx_co=1)
+
+**Together表示**，非常感谢蒙特利尔大学的AAI CERC实验室，斯坦福基础模型研究中心，Ontocord.ai，Meta AI，EleutherAI，OLCF等学术机构和开源社区的鼎力支持。如果没有他们贡献核心训练代码、架构、数据，根本不可能推出RedPajama。
+
 4月17日，RedPajama宣布开源1.2万亿token数据集，帮助开发者训练类ChatGPT大语言模型。这也是目前类ChatGPT领域，全球最大的开源训练数据集。（地址：https://huggingface.co/datasets/togethercomputer/RedPajama-Data-1T）
 RedPajama完美复制了LLaMA模型上的1.2万亿训练数据集，由维基百科、GitHub、普通抓取、C4、图书、ArXiv（知名论文网站）、Stack Exchange七部分组成。完整数据集容量约5T，根据数据使用条例已经允许商业化。
 

@@ -20,3 +20,5 @@ https://learnprompting.org/docs/advanced_applications/mrkl
 
 ![[Pasted image 20230404120511.png]]https://python.langchain.com/en/latest/modules/agents/agents/examples/mrkl.html
 [MRKL — 🦜🔗 LangChain 0.0.130](https://python.langchain.com/en/latest/modules/agents/agents/examples/mrkl.html)
+
+[LangChain + 本地LLM的QA检索方案 - 无需OpenAI!!! 低费用的落地方案](https://mp.weixin.qq.com/s/1SiqLSaadpYgc8AIj1atcw)

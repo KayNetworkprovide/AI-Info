@@ -1,0 +1,2 @@
+[# AI生成内容监管落地！抖音出台AIGC行业规范](https://www.bilibili.com/video/BV1YT411t7Pe/?-Arouter=story&buvid=Z04E510301E2317E4258B86E9DE3EE9C4D01&is_story_h5=true&mid=VWzcmGUtEsG3cu5l2eCFlg%3D%3D&p=1&plat_id=163&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=1A148BD9-C885-478A-81FA-1C2CFE656D46&share_source=WEIXIN&share_tag=s_i&timestamp=1684234353&unique_k=RC75Mbj&up_id=392070429&vd_source=51c3e05edfa923bc859a70d024c2d7c9)
+

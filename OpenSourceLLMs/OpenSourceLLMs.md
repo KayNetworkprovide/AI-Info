@@ -14,6 +14,7 @@ vicuna2
 [[MOSS]]
 [[RedPajama]]
 [[StarCoder]]
+[[Together]]
 
 [Open LLMs benchmark大模型能力评测标准计划 (qq.com)](https://mp.weixin.qq.com/s/8j-_ke79RWqHgIqFnxHNFQ)
 

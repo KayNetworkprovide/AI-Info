@@ -60,3 +60,6 @@ ChatGPT中文指南：https://github.com/PlexPt/awesome-chatgpt-prompts-zh
 ![[基于认知管理和AIGC的软件构建模式.pdf]]
 ![[154页微软GPT研究报告（全中文版）(1).pdf]]
 ![[ChatGPT_ppf.pdf]]![[0f12d435e0e741cd0026d386ea292252.pdf]]
+![[AI大模型市场研究报告2023-迈向通用人工智能，大模型拉开新时代序幕 -沙利文.pdf]]
+
+![[AIGC发展研究1.0版0.91.pdf]]
