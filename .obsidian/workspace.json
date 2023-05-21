@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OpenSourceLLMs/Ziya-Llama-13b.md",
+                "file": "2023-05-09.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -114,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OpenSourceLLMs/Ziya-Llama-13b.md",
+                "file": "Career&Industry/优先级.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OpenSourceLLMs/Ziya-Llama-13b.md",
+                "file": "Career&Industry/优先级.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OpenSourceLLMs/Ziya-Llama-13b.md"
+                "file": "Career&Industry/优先级.md"
               }
             }
           },
@@ -183,10 +182,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8a31d1b5e8d1115a",
+  "active": "ae2be0969bd1e99c",
   "lastOpenFiles": [
-    "Career&Industry/被优化Checklist.md",
+    "2023-05-09.md",
     "OpenSourceLLMs/Ziya-Llama-13b.md",
+    "Career&Industry/被优化Checklist.md",
     "ChatGPT/ChatGPT相关论文.md",
     "OpenSourceLLMs/Together.md",
     "OpenSourceLLMs/OpenSourceLLMs.md",
@@ -224,7 +224,6 @@
     "ChatGPT/10931683775634_.pic.jpg",
     "DataAnalysisAI/DataAnalysisAI.md",
     "Assets/Pasted image 20230516163022.png",
-    "AccoutingAI/AccountingAI.md",
     "AccoutingAI",
     "Career&Industry/TradingAI",
     "Assets/Pasted image 20230515105944.png",
