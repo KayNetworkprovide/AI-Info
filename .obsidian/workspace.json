@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Career&Industry/优先级.md",
+                "file": "Career&Industry/创业/跨境流量驱动兴趣电商/直播间核心话术和话术节奏.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Career&Industry/优先级.md",
+                "file": "Career&Industry/创业/跨境流量驱动兴趣电商/直播间核心话术和话术节奏.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Career&Industry/优先级.md",
+                "file": "Career&Industry/创业/跨境流量驱动兴趣电商/直播间核心话术和话术节奏.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Career&Industry/优先级.md"
+                "file": "Career&Industry/创业/跨境流量驱动兴趣电商/直播间核心话术和话术节奏.md"
               }
             }
           },
@@ -184,9 +184,27 @@
   },
   "active": "ae2be0969bd1e99c",
   "lastOpenFiles": [
-    "2023-05-09.md",
-    "OpenSourceLLMs/Ziya-Llama-13b.md",
+    "Career&Industry/创业/跨境流量驱动兴趣电商/跨境流量驱动兴趣电商第一阶段.md",
+    "Career&Industry/创业/跨境流量驱动兴趣电商/直播间核心话术和话术节奏.md",
+    "Career&Industry/创业/行动计划/行动计划.md",
+    "Career&Industry/创业/行动计划/注册公司.md",
+    "Career&Industry/创业/行动计划/构思和市场调研.md",
+    "Career&Industry/创业/行动计划/MemoryGPT对话.md",
+    "Career&Industry/创业/跨境流量驱动兴趣电商/跨境流量驱动兴趣电商.md",
+    "TODO.md",
+    "跨境流量驱动兴趣电商第一阶段.md",
+    "Career&Industry/创业/跨境流量驱动兴趣电商/各阶段成本.md",
+    "Pasted image 20230522173212.png",
+    "Pasted image 20230522172554.png",
+    "Pasted image 20230522172015.png",
+    "Pasted image 20230522171502.png",
+    "Pasted image 20230522171127.png",
+    "Career&Industry/创业/创业.md",
+    "Pasted image 20230522165923.png",
     "Career&Industry/被优化Checklist.md",
+    "2023-05-09.md",
+    "Career&Industry/优先级.md",
+    "OpenSourceLLMs/Ziya-Llama-13b.md",
     "ChatGPT/ChatGPT相关论文.md",
     "OpenSourceLLMs/Together.md",
     "OpenSourceLLMs/OpenSourceLLMs.md",
@@ -203,33 +221,15 @@
     "ChatGPT/Langchain.md",
     "CodingAndArchitectureBasedOnAI/FrontendAndAI.md",
     "Assets/11211684233657_.pic.jpg",
-    "Career&Industry/IndustryGPT/DoctorGLM.md",
-    "ChatGPT/ChatGPT.md",
     "Assets/AIGC发展研究1.0版0.91.pdf",
     "Assets/AI大模型市场研究报告2023-迈向通用人工智能，大模型拉开新时代序幕 -沙利文.pdf",
-    "Career&Industry/优先级.md",
-    "Career&Industry/创业/创业.md",
-    "Career&Industry/跨境电商/chatGPT和电商狂飙.md",
-    "Career&Industry/EnterpriseAI/EnterpriseAI.md",
-    "DataAnalysisAI/CopilotChat数据导入.md",
     "Assets/【奥纬咨询】ChatGPT如何协助合规部门的工作？ 【洞见研报DJyanbao.com】.pdf",
-    "ToolsOrLLMNoNeedToPayAttention/ToolsOrLLMNoNeedToPayAttention.md",
     "讯飞星火、天工、文心测试（真格基金题库）.xlsx",
     "Assets/Pasted image 20230516170744.png",
     "Career&Industry/EnterpriseAI",
-    "DeepLearning/DeepLearning.md",
     "DeepLearning",
-    "ChatGPT/LLM底层技术.md",
-    "ChatGPTReplacement/Google AIGC全家桶.md",
-    "ChatGPT/10931683775634_.pic.jpg",
-    "DataAnalysisAI/DataAnalysisAI.md",
-    "Assets/Pasted image 20230516163022.png",
     "AccoutingAI",
     "Career&Industry/TradingAI",
-    "Assets/Pasted image 20230515105944.png",
-    "Assets/Pasted image 20230506173056.png",
-    "Assets/Pasted image 20230506173051.png",
-    "Assets/Pasted image 20230505114935.png",
     "Untitled.canvas",
     "PromptEngineering/Untitled.canvas"
   ]
